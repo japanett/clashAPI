@@ -1,0 +1,5410 @@
+[
+    {
+        "name": "Ice_Spirit",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "90",
+                "area_damage": "43"
+            },
+            {
+                "level": "2",
+                "hitpoints": "99",
+                "area_damage": "47"
+            },
+            {
+                "level": "3",
+                "hitpoints": "108",
+                "area_damage": "52"
+            },
+            {
+                "level": "4",
+                "hitpoints": "119",
+                "area_damage": "57"
+            },
+            {
+                "level": "5",
+                "hitpoints": "131",
+                "area_damage": "62"
+            },
+            {
+                "level": "6",
+                "hitpoints": "144",
+                "area_damage": "68"
+            },
+            {
+                "level": "7",
+                "hitpoints": "158",
+                "area_damage": "75"
+            },
+            {
+                "level": "8",
+                "hitpoints": "173",
+                "area_damage": "82"
+            },
+            {
+                "level": "9",
+                "hitpoints": "190",
+                "area_damage": "91"
+            },
+            {
+                "level": "10",
+                "hitpoints": "209",
+                "area_damage": "100"
+            },
+            {
+                "level": "11",
+                "hitpoints": "230",
+                "area_damage": "110"
+            },
+            {
+                "level": "12",
+                "hitpoints": "252",
+                "area_damage": "120"
+            },
+            {
+                "level": "13",
+                "hitpoints": "278",
+                "area_damage": "132"
+            }
+        ]
+    },
+    {
+        "name": "Mini_P.E.K.K.A.",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "642",
+                "damage": "340",
+                "damage_per_second": "188"
+            },
+            {
+                "level": "2",
+                "hitpoints": "706",
+                "damage": "374",
+                "damage_per_second": "207"
+            },
+            {
+                "level": "3",
+                "hitpoints": "776",
+                "damage": "411",
+                "damage_per_second": "228"
+            },
+            {
+                "level": "4",
+                "hitpoints": "853",
+                "damage": "452",
+                "damage_per_second": "251"
+            },
+            {
+                "level": "5",
+                "hitpoints": "937",
+                "damage": "496",
+                "damage_per_second": "275"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,027",
+                "damage": "544",
+                "damage_per_second": "302"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,129",
+                "damage": "598",
+                "damage_per_second": "332"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,239",
+                "damage": "656",
+                "damage_per_second": "364"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,361",
+                "damage": "720",
+                "damage_per_second": "400"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,495",
+                "damage": "792",
+                "damage_per_second": "440"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,643",
+                "damage": "870",
+                "damage_per_second": "483"
+            }
+        ]
+    },
+    {
+        "name": "Spear_Goblins",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "52",
+                "damage": "32",
+                "damage_per_second": "18"
+            },
+            {
+                "level": "2",
+                "hitpoints": "57",
+                "damage": "35",
+                "damage_per_second": "20"
+            },
+            {
+                "level": "3",
+                "hitpoints": "62",
+                "damage": "38",
+                "damage_per_second": "22"
+            },
+            {
+                "level": "4",
+                "hitpoints": "69",
+                "damage": "42",
+                "damage_per_second": "24"
+            },
+            {
+                "level": "5",
+                "hitpoints": "75",
+                "damage": "46",
+                "damage_per_second": "27"
+            },
+            {
+                "level": "6",
+                "hitpoints": "83",
+                "damage": "51",
+                "damage_per_second": "30"
+            },
+            {
+                "level": "7",
+                "hitpoints": "91",
+                "damage": "56",
+                "damage_per_second": "32"
+            },
+            {
+                "level": "8",
+                "hitpoints": "100",
+                "damage": "61",
+                "damage_per_second": "35"
+            },
+            {
+                "level": "9",
+                "hitpoints": "110",
+                "damage": "67",
+                "damage_per_second": "39"
+            },
+            {
+                "level": "10",
+                "hitpoints": "121",
+                "damage": "74",
+                "damage_per_second": "43"
+            },
+            {
+                "level": "11",
+                "hitpoints": "133",
+                "damage": "81",
+                "damage_per_second": "47"
+            },
+            {
+                "level": "12",
+                "hitpoints": "146",
+                "damage": "89",
+                "damage_per_second": "52"
+            },
+            {
+                "level": "13",
+                "hitpoints": "160",
+                "damage": "98",
+                "damage_per_second": "57"
+            }
+        ]
+    },
+    {
+        "name": "Bowler",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,200",
+                "area_damage": "180",
+                "damage_per_second": "72"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,320",
+                "area_damage": "198",
+                "damage_per_second": "79"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,452",
+                "area_damage": "217",
+                "damage_per_second": "86"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,596",
+                "area_damage": "239",
+                "damage_per_second": "95"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,752",
+                "area_damage": "262",
+                "damage_per_second": "104"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,920",
+                "area_damage": "288",
+                "damage_per_second": "115"
+            },
+            {
+                "level": "7",
+                "hitpoints": "2,112",
+                "area_damage": "316",
+                "damage_per_second": "126"
+            },
+            {
+                "level": "8",
+                "hitpoints": "2,316",
+                "area_damage": "347",
+                "damage_per_second": "138"
+            }
+        ]
+    },
+    {
+        "name": "Bats",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "32",
+                "damage": "32",
+                "damage_per_second": "29"
+            },
+            {
+                "level": "2",
+                "hitpoints": "35",
+                "damage": "35",
+                "damage_per_second": "31"
+            },
+            {
+                "level": "3",
+                "hitpoints": "38",
+                "damage": "38",
+                "damage_per_second": "35"
+            },
+            {
+                "level": "4",
+                "hitpoints": "42",
+                "damage": "42",
+                "damage_per_second": "38"
+            },
+            {
+                "level": "5",
+                "hitpoints": "46",
+                "damage": "46",
+                "damage_per_second": "42"
+            },
+            {
+                "level": "6",
+                "hitpoints": "51",
+                "damage": "51",
+                "damage_per_second": "46"
+            },
+            {
+                "level": "7",
+                "hitpoints": "56",
+                "damage": "56",
+                "damage_per_second": "50"
+            },
+            {
+                "level": "8",
+                "hitpoints": "61",
+                "damage": "61",
+                "damage_per_second": "55"
+            },
+            {
+                "level": "9",
+                "hitpoints": "67",
+                "damage": "67",
+                "damage_per_second": "60"
+            },
+            {
+                "level": "10",
+                "hitpoints": "74",
+                "damage": "74",
+                "damage_per_second": "67"
+            },
+            {
+                "level": "11",
+                "hitpoints": "81",
+                "damage": "81",
+                "damage_per_second": "74"
+            },
+            {
+                "level": "12",
+                "hitpoints": "89",
+                "damage": "89",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "13",
+                "hitpoints": "98",
+                "damage": "98",
+                "damage_per_second": "89"
+            }
+        ]
+    },
+    {
+        "name": "Giant_Skeleton",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "2,100",
+                "damage": "130",
+                "damage_per_second": "86",
+                "death_damage": "720"
+            },
+            {
+                "level": "2",
+                "hitpoints": "2,310",
+                "damage": "143",
+                "damage_per_second": "95",
+                "death_damage": "792"
+            },
+            {
+                "level": "3",
+                "hitpoints": "2,541",
+                "damage": "157",
+                "damage_per_second": "104",
+                "death_damage": "871"
+            },
+            {
+                "level": "4",
+                "hitpoints": "2,793",
+                "damage": "172",
+                "damage_per_second": "114",
+                "death_damage": "957"
+            },
+            {
+                "level": "5",
+                "hitpoints": "3,066",
+                "damage": "189",
+                "damage_per_second": "126",
+                "death_damage": "1,051"
+            },
+            {
+                "level": "6",
+                "hitpoints": "3,360",
+                "damage": "208",
+                "damage_per_second": "138",
+                "death_damage": "1,152"
+            },
+            {
+                "level": "7",
+                "hitpoints": "3,696",
+                "damage": "228",
+                "damage_per_second": "152",
+                "death_damage": "1,267"
+            },
+            {
+                "level": "8",
+                "hitpoints": "4,053",
+                "damage": "250",
+                "damage_per_second": "166",
+                "death_damage": "1,389"
+            }
+        ]
+    },
+    {
+        "name": "Arrows",
+        "stats": [
+            {
+                "level": "1",
+                "area_damage": "115",
+                "crown_tower_damage": "41"
+            },
+            {
+                "level": "2",
+                "area_damage": "126",
+                "crown_tower_damage": "45"
+            },
+            {
+                "level": "3",
+                "area_damage": "139",
+                "crown_tower_damage": "49"
+            },
+            {
+                "level": "4",
+                "area_damage": "152",
+                "crown_tower_damage": "54"
+            },
+            {
+                "level": "5",
+                "area_damage": "167",
+                "crown_tower_damage": "59"
+            },
+            {
+                "level": "6",
+                "area_damage": "184",
+                "crown_tower_damage": "65"
+            },
+            {
+                "level": "7",
+                "area_damage": "202",
+                "crown_tower_damage": "71"
+            },
+            {
+                "level": "8",
+                "area_damage": "221",
+                "crown_tower_damage": "78"
+            },
+            {
+                "level": "9",
+                "area_damage": "243",
+                "crown_tower_damage": "86"
+            },
+            {
+                "level": "10",
+                "area_damage": "267",
+                "crown_tower_damage": "94"
+            },
+            {
+                "level": "11",
+                "area_damage": "294",
+                "crown_tower_damage": "103"
+            },
+            {
+                "level": "12",
+                "area_damage": "323",
+                "crown_tower_damage": "114"
+            },
+            {
+                "level": "13",
+                "area_damage": "355",
+                "crown_tower_damage": "125"
+            }
+        ]
+    },
+    {
+        "name": "Dart_Goblin",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "123",
+                "damage": "55",
+                "damage_per_second": "84"
+            },
+            {
+                "level": "2",
+                "hitpoints": "135",
+                "damage": "60",
+                "damage_per_second": "92"
+            },
+            {
+                "level": "3",
+                "hitpoints": "148",
+                "damage": "66",
+                "damage_per_second": "101"
+            },
+            {
+                "level": "4",
+                "hitpoints": "163",
+                "damage": "73",
+                "damage_per_second": "112"
+            },
+            {
+                "level": "5",
+                "hitpoints": "179",
+                "damage": "80",
+                "damage_per_second": "123"
+            },
+            {
+                "level": "6",
+                "hitpoints": "196",
+                "damage": "88",
+                "damage_per_second": "135"
+            },
+            {
+                "level": "7",
+                "hitpoints": "216",
+                "damage": "96",
+                "damage_per_second": "147"
+            },
+            {
+                "level": "8",
+                "hitpoints": "237",
+                "damage": "106",
+                "damage_per_second": "163"
+            },
+            {
+                "level": "9",
+                "hitpoints": "260",
+                "damage": "116",
+                "damage_per_second": "178"
+            },
+            {
+                "level": "10",
+                "hitpoints": "286",
+                "damage": "128",
+                "damage_per_second": "196"
+            },
+            {
+                "level": "11",
+                "hitpoints": "314",
+                "damage": "140",
+                "damage_per_second": "215"
+            }
+        ]
+    },
+    {
+        "name": "Valkyrie",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "940",
+                "area_damage": "126",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,034",
+                "area_damage": "138",
+                "damage_per_second": "99"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,137",
+                "area_damage": "152",
+                "damage_per_second": "108"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,250",
+                "area_damage": "167",
+                "damage_per_second": "119"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,372",
+                "area_damage": "183",
+                "damage_per_second": "131"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,504",
+                "area_damage": "201",
+                "damage_per_second": "144"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,654",
+                "area_damage": "221",
+                "damage_per_second": "158"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,814",
+                "area_damage": "243",
+                "damage_per_second": "173"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,992",
+                "area_damage": "267",
+                "damage_per_second": "190"
+            },
+            {
+                "level": "10",
+                "hitpoints": "2,190",
+                "area_damage": "293",
+                "damage_per_second": "209"
+            },
+            {
+                "level": "11",
+                "hitpoints": "2,406",
+                "area_damage": "322",
+                "damage_per_second": "230"
+            }
+        ]
+    },
+    {
+        "name": "Prince",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,155",
+                "damage": "245",
+                "charge_damage": "490",
+                "damage_per_second": "175"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,270",
+                "damage": "269",
+                "charge_damage": "539",
+                "damage_per_second": "192"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,397",
+                "damage": "296",
+                "charge_damage": "592",
+                "damage_per_second": "211"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,536",
+                "damage": "325",
+                "charge_damage": "651",
+                "damage_per_second": "232"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,686",
+                "damage": "357",
+                "charge_damage": "715",
+                "damage_per_second": "255"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,848",
+                "damage": "392",
+                "charge_damage": "784",
+                "damage_per_second": "280"
+            },
+            {
+                "level": "7",
+                "hitpoints": "2,032",
+                "damage": "431",
+                "charge_damage": "862",
+                "damage_per_second": "307"
+            },
+            {
+                "level": "8",
+                "hitpoints": "2,229",
+                "damage": "472",
+                "charge_damage": "945",
+                "damage_per_second": "337"
+            }
+        ]
+    },
+    {
+        "name": "Skeleton_Barrel",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "300",
+                "death_damage": "32",
+                "skeleton_level": "1"
+            },
+            {
+                "level": "2",
+                "hitpoints": "330",
+                "death_damage": "35",
+                "skeleton_level": "2"
+            },
+            {
+                "level": "3",
+                "hitpoints": "363",
+                "death_damage": "38",
+                "skeleton_level": "3"
+            },
+            {
+                "level": "4",
+                "hitpoints": "399",
+                "death_damage": "42",
+                "skeleton_level": "4"
+            },
+            {
+                "level": "5",
+                "hitpoints": "438",
+                "death_damage": "46",
+                "skeleton_level": "5"
+            },
+            {
+                "level": "6",
+                "hitpoints": "480",
+                "death_damage": "51",
+                "skeleton_level": "6"
+            },
+            {
+                "level": "7",
+                "hitpoints": "528",
+                "death_damage": "56",
+                "skeleton_level": "7"
+            },
+            {
+                "level": "8",
+                "hitpoints": "579",
+                "death_damage": "61",
+                "skeleton_level": "8"
+            },
+            {
+                "level": "9",
+                "hitpoints": "636",
+                "death_damage": "67",
+                "skeleton_level": "9"
+            },
+            {
+                "level": "10",
+                "hitpoints": "699",
+                "death_damage": "74",
+                "skeleton_level": "10"
+            },
+            {
+                "level": "11",
+                "hitpoints": "768",
+                "death_damage": "81",
+                "skeleton_level": "11"
+            },
+            {
+                "level": "12",
+                "hitpoints": "843",
+                "death_damage": "89",
+                "skeleton_level": "12"
+            },
+            {
+                "level": "13",
+                "hitpoints": "927",
+                "death_damage": "98",
+                "skeleton_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Dark_Prince",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "775",
+                "shield_hitpoints": "150",
+                "area_damage": "155",
+                "charge_damage": "310",
+                "damage_per_second": "119"
+            },
+            {
+                "level": "2",
+                "hitpoints": "852",
+                "shield_hitpoints": "165",
+                "area_damage": "170",
+                "charge_damage": "341",
+                "damage_per_second": "130"
+            },
+            {
+                "level": "3",
+                "hitpoints": "937",
+                "shield_hitpoints": "181",
+                "area_damage": "187",
+                "charge_damage": "375",
+                "damage_per_second": "143"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,030",
+                "shield_hitpoints": "199",
+                "area_damage": "206",
+                "charge_damage": "412",
+                "damage_per_second": "158"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,131",
+                "shield_hitpoints": "219",
+                "area_damage": "226",
+                "charge_damage": "452",
+                "damage_per_second": "173"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,240",
+                "shield_hitpoints": "240",
+                "area_damage": "248",
+                "charge_damage": "496",
+                "damage_per_second": "190"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,364",
+                "shield_hitpoints": "264",
+                "area_damage": "272",
+                "charge_damage": "545",
+                "damage_per_second": "209"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,495",
+                "shield_hitpoints": "289",
+                "area_damage": "299",
+                "charge_damage": "598",
+                "damage_per_second": "230"
+            }
+        ]
+    },
+    {
+        "name": "Rocket",
+        "stats": [
+            {
+                "level": "1",
+                "area_damage": "700",
+                "crown_tower_damage": "246"
+            },
+            {
+                "level": "2",
+                "area_damage": "770",
+                "crown_tower_damage": "270"
+            },
+            {
+                "level": "3",
+                "area_damage": "847",
+                "crown_tower_damage": "297"
+            },
+            {
+                "level": "4",
+                "area_damage": "931",
+                "crown_tower_damage": "326"
+            },
+            {
+                "level": "5",
+                "area_damage": "1,022",
+                "crown_tower_damage": "358"
+            },
+            {
+                "level": "6",
+                "area_damage": "1,120",
+                "crown_tower_damage": "392"
+            },
+            {
+                "level": "7",
+                "area_damage": "1,232",
+                "crown_tower_damage": "432"
+            },
+            {
+                "level": "8",
+                "area_damage": "1,351",
+                "crown_tower_damage": "473"
+            },
+            {
+                "level": "9",
+                "area_damage": "1,484",
+                "crown_tower_damage": "520"
+            },
+            {
+                "level": "10",
+                "area_damage": "1,631",
+                "crown_tower_damage": "571"
+            },
+            {
+                "level": "11",
+                "area_damage": "1,792",
+                "crown_tower_damage": "628"
+            }
+        ]
+    },
+    {
+        "name": "Princess",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "216",
+                "area_damage": "140",
+                "damage_per_second": "46"
+            },
+            {
+                "level": "2",
+                "hitpoints": "237",
+                "area_damage": "154",
+                "damage_per_second": "51"
+            },
+            {
+                "level": "3",
+                "hitpoints": "261",
+                "area_damage": "169",
+                "damage_per_second": "56"
+            },
+            {
+                "level": "4",
+                "hitpoints": "287",
+                "area_damage": "186",
+                "damage_per_second": "62"
+            },
+            {
+                "level": "5",
+                "hitpoints": "315",
+                "area_damage": "204",
+                "damage_per_second": "68"
+            }
+        ]
+    },
+    {
+        "name": "Guards",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "68",
+                "shield_hitpoints": "150",
+                "damage": "68",
+                "damage_per_second": "61"
+            },
+            {
+                "level": "2",
+                "hitpoints": "74",
+                "shield_hitpoints": "165",
+                "damage": "74",
+                "damage_per_second": "67"
+            },
+            {
+                "level": "3",
+                "hitpoints": "82",
+                "shield_hitpoints": "181",
+                "damage": "82",
+                "damage_per_second": "74"
+            },
+            {
+                "level": "4",
+                "hitpoints": "90",
+                "shield_hitpoints": "199",
+                "damage": "90",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "5",
+                "hitpoints": "99",
+                "shield_hitpoints": "219",
+                "damage": "99",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "6",
+                "hitpoints": "108",
+                "shield_hitpoints": "240",
+                "damage": "108",
+                "damage_per_second": "98"
+            },
+            {
+                "level": "7",
+                "hitpoints": "119",
+                "shield_hitpoints": "264",
+                "damage": "119",
+                "damage_per_second": "108"
+            },
+            {
+                "level": "8",
+                "hitpoints": "131",
+                "shield_hitpoints": "289",
+                "damage": "131",
+                "damage_per_second": "119"
+            }
+        ]
+    },
+    {
+        "name": "Royal_Giant",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,200",
+                "damage": "75",
+                "damage_per_second": "44"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,320",
+                "damage": "82",
+                "damage_per_second": "48"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,452",
+                "damage": "90",
+                "damage_per_second": "52"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,596",
+                "damage": "99",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,752",
+                "damage": "109",
+                "damage_per_second": "64"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,920",
+                "damage": "120",
+                "damage_per_second": "70"
+            },
+            {
+                "level": "7",
+                "hitpoints": "2,112",
+                "damage": "132",
+                "damage_per_second": "77"
+            },
+            {
+                "level": "8",
+                "hitpoints": "2,316",
+                "damage": "144",
+                "damage_per_second": "84"
+            },
+            {
+                "level": "9",
+                "hitpoints": "2,544",
+                "damage": "159",
+                "damage_per_second": "93"
+            },
+            {
+                "level": "10",
+                "hitpoints": "2,796",
+                "damage": "174",
+                "damage_per_second": "102"
+            },
+            {
+                "level": "11",
+                "hitpoints": "3,072",
+                "damage": "192",
+                "damage_per_second": "112"
+            },
+            {
+                "level": "12",
+                "hitpoints": "3,372",
+                "damage": "210",
+                "damage_per_second": "123"
+            },
+            {
+                "level": "13",
+                "hitpoints": "3,708",
+                "damage": "231",
+                "damage_per_second": "135"
+            }
+        ]
+    },
+    {
+        "name": "Cannon_Cart",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "550",
+                "shield_hitpoints": "550",
+                "damage": "153",
+                "damage_per_second": "127"
+            },
+            {
+                "level": "2",
+                "hitpoints": "605",
+                "shield_hitpoints": "605",
+                "damage": "168",
+                "damage_per_second": "140"
+            },
+            {
+                "level": "3",
+                "hitpoints": "665",
+                "shield_hitpoints": "665",
+                "damage": "185",
+                "damage_per_second": "154"
+            },
+            {
+                "level": "4",
+                "hitpoints": "731",
+                "shield_hitpoints": "731",
+                "damage": "203",
+                "damage_per_second": "169"
+            },
+            {
+                "level": "5",
+                "hitpoints": "803",
+                "shield_hitpoints": "803",
+                "damage": "223",
+                "damage_per_second": "185"
+            },
+            {
+                "level": "6",
+                "hitpoints": "880",
+                "shield_hitpoints": "880",
+                "damage": "244",
+                "damage_per_second": "203"
+            },
+            {
+                "level": "7",
+                "hitpoints": "968",
+                "shield_hitpoints": "968",
+                "damage": "269",
+                "damage_per_second": "224"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,061",
+                "shield_hitpoints": "1,061",
+                "damage": "295",
+                "damage_per_second": "245"
+            }
+        ]
+    },
+    {
+        "name": "Inferno_Dragon",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,070",
+                "damage": "30-350",
+                "damage_per_second": "75-875"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,177",
+                "damage": "33-385",
+                "damage_per_second": "82-962"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,294",
+                "damage": "36-423",
+                "damage_per_second": "90-1,057"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,423",
+                "damage": "39-465",
+                "damage_per_second": "97-1,162"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,562",
+                "damage": "43-511",
+                "damage_per_second": "107-1,277"
+            }
+        ]
+    },
+    {
+        "name": "Zappies",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "250",
+                "damage": "40",
+                "damage_per_second": "25"
+            },
+            {
+                "level": "2",
+                "hitpoints": "275",
+                "damage": "44",
+                "damage_per_second": "27"
+            },
+            {
+                "level": "3",
+                "hitpoints": "302",
+                "damage": "48",
+                "damage_per_second": "30"
+            },
+            {
+                "level": "4",
+                "hitpoints": "332",
+                "damage": "53",
+                "damage_per_second": "33"
+            },
+            {
+                "level": "5",
+                "hitpoints": "365",
+                "damage": "58",
+                "damage_per_second": "36"
+            },
+            {
+                "level": "6",
+                "hitpoints": "400",
+                "damage": "64",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "7",
+                "hitpoints": "440",
+                "damage": "70",
+                "damage_per_second": "43"
+            },
+            {
+                "level": "8",
+                "hitpoints": "482",
+                "damage": "77",
+                "damage_per_second": "48"
+            },
+            {
+                "level": "9",
+                "hitpoints": "530",
+                "damage": "84",
+                "damage_per_second": "52"
+            },
+            {
+                "level": "10",
+                "hitpoints": "582",
+                "damage": "93",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "11",
+                "hitpoints": "640",
+                "damage": "102",
+                "damage_per_second": "63"
+            }
+        ]
+    },
+    {
+        "name": "Balloon",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,050",
+                "damage": "600",
+                "damage_per_second": "200",
+                "death_damage": "205"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,155",
+                "damage": "660",
+                "damage_per_second": "220",
+                "death_damage": "225"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,270",
+                "damage": "726",
+                "damage_per_second": "242",
+                "death_damage": "248"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,396",
+                "damage": "798",
+                "damage_per_second": "266",
+                "death_damage": "272"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,533",
+                "damage": "876",
+                "damage_per_second": "292",
+                "death_damage": "299"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,680",
+                "damage": "960",
+                "damage_per_second": "320",
+                "death_damage": "328"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,848",
+                "damage": "1,056",
+                "damage_per_second": "352",
+                "death_damage": "360"
+            },
+            {
+                "level": "8",
+                "hitpoints": "2,026",
+                "damage": "1,158",
+                "damage_per_second": "386",
+                "death_damage": "395"
+            }
+        ]
+    },
+    {
+        "name": "Witch",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "613",
+                "area_damage": "52",
+                "damage_per_second": "52",
+                "skeleton_level": "6"
+            },
+            {
+                "level": "2",
+                "hitpoints": "674",
+                "area_damage": "57",
+                "damage_per_second": "57",
+                "skeleton_level": "7"
+            },
+            {
+                "level": "3",
+                "hitpoints": "741",
+                "area_damage": "62",
+                "damage_per_second": "62",
+                "skeleton_level": "8"
+            },
+            {
+                "level": "4",
+                "hitpoints": "815",
+                "area_damage": "69",
+                "damage_per_second": "69",
+                "skeleton_level": "9"
+            },
+            {
+                "level": "5",
+                "hitpoints": "895",
+                "area_damage": "75",
+                "damage_per_second": "75",
+                "skeleton_level": "10"
+            },
+            {
+                "level": "6",
+                "hitpoints": "980",
+                "area_damage": "83",
+                "damage_per_second": "83",
+                "skeleton_level": "11"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,079",
+                "area_damage": "91",
+                "damage_per_second": "91",
+                "skeleton_level": "12"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,183",
+                "area_damage": "100",
+                "damage_per_second": "100",
+                "skeleton_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Electro_Wizard",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "590",
+                "damage": "96 x2",
+                "spawn_damage": "159",
+                "damage_per_second": "53 x2"
+            },
+            {
+                "level": "2",
+                "hitpoints": "649",
+                "damage": "105 x2",
+                "spawn_damage": "174",
+                "damage_per_second": "58 x2"
+            },
+            {
+                "level": "3",
+                "hitpoints": "713",
+                "damage": "116 x2",
+                "spawn_damage": "192",
+                "damage_per_second": "64 x2"
+            },
+            {
+                "level": "4",
+                "hitpoints": "784",
+                "damage": "127 x2",
+                "spawn_damage": "210",
+                "damage_per_second": "70 x2"
+            },
+            {
+                "level": "5",
+                "hitpoints": "861",
+                "damage": "140 x2",
+                "spawn_damage": "231",
+                "damage_per_second": "77 x2"
+            }
+        ]
+    },
+    {
+        "name": "Battle_Ram",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "430",
+                "damage": "140",
+                "charge_damage": "280",
+                "barbarian_level": "3"
+            },
+            {
+                "level": "2",
+                "hitpoints": "473",
+                "damage": "154",
+                "charge_damage": "308",
+                "barbarian_level": "4"
+            },
+            {
+                "level": "3",
+                "hitpoints": "520",
+                "damage": "169",
+                "charge_damage": "338",
+                "barbarian_level": "5"
+            },
+            {
+                "level": "4",
+                "hitpoints": "571",
+                "damage": "186",
+                "charge_damage": "372",
+                "barbarian_level": "6"
+            },
+            {
+                "level": "5",
+                "hitpoints": "627",
+                "damage": "204",
+                "charge_damage": "408",
+                "barbarian_level": "7"
+            },
+            {
+                "level": "6",
+                "hitpoints": "688",
+                "damage": "224",
+                "charge_damage": "448",
+                "barbarian_level": "8"
+            },
+            {
+                "level": "7",
+                "hitpoints": "756",
+                "damage": "246",
+                "charge_damage": "492",
+                "barbarian_level": "9"
+            },
+            {
+                "level": "8",
+                "hitpoints": "829",
+                "damage": "270",
+                "charge_damage": "540",
+                "barbarian_level": "10"
+            },
+            {
+                "level": "9",
+                "hitpoints": "911",
+                "damage": "296",
+                "charge_damage": "592",
+                "barbarian_level": "11"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,001",
+                "damage": "326",
+                "charge_damage": "652",
+                "barbarian_level": "12"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,100",
+                "damage": "358",
+                "charge_damage": "716",
+                "barbarian_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Mega_Knight",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "3,300",
+                "area_damage": "222",
+                "spawn_damage": "444",
+                "jump_damage": "444",
+                "damage_per_second": "123"
+            },
+            {
+                "level": "2",
+                "hitpoints": "3,630",
+                "area_damage": "244",
+                "spawn_damage": "488",
+                "jump_damage": "488",
+                "damage_per_second": "135"
+            },
+            {
+                "level": "3",
+                "hitpoints": "3,993",
+                "area_damage": "268",
+                "spawn_damage": "537",
+                "jump_damage": "537",
+                "damage_per_second": "148"
+            },
+            {
+                "level": "4",
+                "hitpoints": "4,389",
+                "area_damage": "295",
+                "spawn_damage": "590",
+                "jump_damage": "590",
+                "damage_per_second": "163"
+            },
+            {
+                "level": "5",
+                "hitpoints": "4,818",
+                "area_damage": "324",
+                "spawn_damage": "648",
+                "jump_damage": "648",
+                "damage_per_second": "180"
+            }
+        ]
+    },
+    {
+        "name": "P.E.K.K.A.",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "2,600",
+                "damage": "510",
+                "damage_per_second": "283"
+            },
+            {
+                "level": "2",
+                "hitpoints": "2,860",
+                "damage": "561",
+                "damage_per_second": "311"
+            },
+            {
+                "level": "3",
+                "hitpoints": "3,146",
+                "damage": "617",
+                "damage_per_second": "342"
+            },
+            {
+                "level": "4",
+                "hitpoints": "3,458",
+                "damage": "678",
+                "damage_per_second": "376"
+            },
+            {
+                "level": "5",
+                "hitpoints": "3,796",
+                "damage": "744",
+                "damage_per_second": "413"
+            },
+            {
+                "level": "6",
+                "hitpoints": "4,160",
+                "damage": "816",
+                "damage_per_second": "453"
+            },
+            {
+                "level": "7",
+                "hitpoints": "4,576",
+                "damage": "897",
+                "damage_per_second": "498"
+            },
+            {
+                "level": "8",
+                "hitpoints": "5,018",
+                "damage": "984",
+                "damage_per_second": "546"
+            }
+        ]
+    },
+    {
+        "name": "Giant",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,900",
+                "damage": "120",
+                "damage_per_second": "80"
+            },
+            {
+                "level": "2",
+                "hitpoints": "2,090",
+                "damage": "132",
+                "damage_per_second": "88"
+            },
+            {
+                "level": "3",
+                "hitpoints": "2,299",
+                "damage": "145",
+                "damage_per_second": "96"
+            },
+            {
+                "level": "4",
+                "hitpoints": "2,527",
+                "damage": "159",
+                "damage_per_second": "106"
+            },
+            {
+                "level": "5",
+                "hitpoints": "2,774",
+                "damage": "175",
+                "damage_per_second": "116"
+            },
+            {
+                "level": "6",
+                "hitpoints": "3,040",
+                "damage": "192",
+                "damage_per_second": "128"
+            },
+            {
+                "level": "7",
+                "hitpoints": "3,344",
+                "damage": "211",
+                "damage_per_second": "140"
+            },
+            {
+                "level": "8",
+                "hitpoints": "3,667",
+                "damage": "231",
+                "damage_per_second": "154"
+            },
+            {
+                "level": "9",
+                "hitpoints": "4,028",
+                "damage": "254",
+                "damage_per_second": "169"
+            },
+            {
+                "level": "10",
+                "hitpoints": "4,427",
+                "damage": "279",
+                "damage_per_second": "186"
+            },
+            {
+                "level": "11",
+                "hitpoints": "4,864",
+                "damage": "307",
+                "damage_per_second": "204"
+            }
+        ]
+    },
+    {
+        "name": "Minion_Horde",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "90",
+                "damage": "40",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "2",
+                "hitpoints": "99",
+                "damage": "44",
+                "damage_per_second": "44"
+            },
+            {
+                "level": "3",
+                "hitpoints": "108",
+                "damage": "48",
+                "damage_per_second": "48"
+            },
+            {
+                "level": "4",
+                "hitpoints": "119",
+                "damage": "53",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "5",
+                "hitpoints": "131",
+                "damage": "58",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "6",
+                "hitpoints": "144",
+                "damage": "64",
+                "damage_per_second": "64"
+            },
+            {
+                "level": "7",
+                "hitpoints": "158",
+                "damage": "70",
+                "damage_per_second": "70"
+            },
+            {
+                "level": "8",
+                "hitpoints": "173",
+                "damage": "77",
+                "damage_per_second": "77"
+            },
+            {
+                "level": "9",
+                "hitpoints": "190",
+                "damage": "84",
+                "damage_per_second": "84"
+            },
+            {
+                "level": "10",
+                "hitpoints": "209",
+                "damage": "93",
+                "damage_per_second": "93"
+            },
+            {
+                "level": "11",
+                "hitpoints": "230",
+                "damage": "102",
+                "damage_per_second": "102"
+            },
+            {
+                "level": "12",
+                "hitpoints": "252",
+                "damage": "112",
+                "damage_per_second": "112"
+            },
+            {
+                "level": "13",
+                "hitpoints": "278",
+                "damage": "123",
+                "damage_per_second": "123"
+            }
+        ]
+    },
+    {
+        "name": "Magic_Archer",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "490",
+                "area_damage": "96",
+                "damage_per_second": "96"
+            },
+            {
+                "level": "2",
+                "hitpoints": "539",
+                "area_damage": "105",
+                "damage_per_second": "105"
+            },
+            {
+                "level": "3",
+                "hitpoints": "592",
+                "area_damage": "116",
+                "damage_per_second": "116"
+            },
+            {
+                "level": "4",
+                "hitpoints": "651",
+                "area_damage": "127",
+                "damage_per_second": "127"
+            },
+            {
+                "level": "5",
+                "hitpoints": "715",
+                "area_damage": "140",
+                "damage_per_second": "140"
+            }
+        ]
+    },
+    {
+        "name": "Baby_Dragon",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "800",
+                "area_damage": "100",
+                "damage_per_second": "62"
+            },
+            {
+                "level": "2",
+                "hitpoints": "880",
+                "area_damage": "110",
+                "damage_per_second": "68"
+            },
+            {
+                "level": "3",
+                "hitpoints": "968",
+                "area_damage": "121",
+                "damage_per_second": "75"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,064",
+                "area_damage": "133",
+                "damage_per_second": "83"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,168",
+                "area_damage": "146",
+                "damage_per_second": "91"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,280",
+                "area_damage": "160",
+                "damage_per_second": "100"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,408",
+                "area_damage": "176",
+                "damage_per_second": "110"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,544",
+                "area_damage": "193",
+                "damage_per_second": "120"
+            }
+        ]
+    },
+    {
+        "name": "Three_Musketeers",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "340",
+                "damage": "100",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "2",
+                "hitpoints": "374",
+                "damage": "110",
+                "damage_per_second": "100"
+            },
+            {
+                "level": "3",
+                "hitpoints": "411",
+                "damage": "121",
+                "damage_per_second": "110"
+            },
+            {
+                "level": "4",
+                "hitpoints": "452",
+                "damage": "133",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "5",
+                "hitpoints": "496",
+                "damage": "146",
+                "damage_per_second": "132"
+            },
+            {
+                "level": "6",
+                "hitpoints": "544",
+                "damage": "160",
+                "damage_per_second": "145"
+            },
+            {
+                "level": "7",
+                "hitpoints": "598",
+                "damage": "176",
+                "damage_per_second": "160"
+            },
+            {
+                "level": "8",
+                "hitpoints": "656",
+                "damage": "193",
+                "damage_per_second": "175"
+            },
+            {
+                "level": "9",
+                "hitpoints": "720",
+                "damage": "212",
+                "damage_per_second": "192"
+            },
+            {
+                "level": "10",
+                "hitpoints": "792",
+                "damage": "233",
+                "damage_per_second": "211"
+            },
+            {
+                "level": "11",
+                "hitpoints": "870",
+                "damage": "256",
+                "damage_per_second": "232"
+            }
+        ]
+    },
+    {
+        "name": "Royal_Ghost",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,100",
+                "area_damage": "216",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,210",
+                "area_damage": "237",
+                "damage_per_second": "131"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,331",
+                "area_damage": "261",
+                "damage_per_second": "145"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,463",
+                "area_damage": "287",
+                "damage_per_second": "159"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,606",
+                "area_damage": "315",
+                "damage_per_second": "175"
+            }
+        ]
+    },
+    {
+        "name": "Ice_Wizard",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "665",
+                "area_damage": "69",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "2",
+                "hitpoints": "731",
+                "area_damage": "75",
+                "damage_per_second": "44"
+            },
+            {
+                "level": "3",
+                "hitpoints": "804",
+                "area_damage": "83",
+                "damage_per_second": "49"
+            },
+            {
+                "level": "4",
+                "hitpoints": "884",
+                "area_damage": "91",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "5",
+                "hitpoints": "970",
+                "area_damage": "100",
+                "damage_per_second": "58"
+            }
+        ]
+    },
+    {
+        "name": "Goblins",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "79",
+                "damage": "47",
+                "damage_per_second": "42"
+            },
+            {
+                "level": "2",
+                "hitpoints": "87",
+                "damage": "51",
+                "damage_per_second": "46"
+            },
+            {
+                "level": "3",
+                "hitpoints": "95",
+                "damage": "56",
+                "damage_per_second": "50"
+            },
+            {
+                "level": "4",
+                "hitpoints": "105",
+                "damage": "62",
+                "damage_per_second": "56"
+            },
+            {
+                "level": "5",
+                "hitpoints": "115",
+                "damage": "68",
+                "damage_per_second": "61"
+            },
+            {
+                "level": "6",
+                "hitpoints": "126",
+                "damage": "75",
+                "damage_per_second": "68"
+            },
+            {
+                "level": "7",
+                "hitpoints": "139",
+                "damage": "82",
+                "damage_per_second": "74"
+            },
+            {
+                "level": "8",
+                "hitpoints": "152",
+                "damage": "90",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "9",
+                "hitpoints": "167",
+                "damage": "99",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "10",
+                "hitpoints": "184",
+                "damage": "109",
+                "damage_per_second": "99"
+            },
+            {
+                "level": "11",
+                "hitpoints": "202",
+                "damage": "120",
+                "damage_per_second": "109"
+            },
+            {
+                "level": "12",
+                "hitpoints": "222",
+                "damage": "132",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "13",
+                "hitpoints": "244",
+                "damage": "145",
+                "damage_per_second": "131"
+            }
+        ]
+    },
+    {
+        "name": "Barbarians",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "300",
+                "damage": "75",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "2",
+                "hitpoints": "330",
+                "damage": "82",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "3",
+                "hitpoints": "363",
+                "damage": "90",
+                "damage_per_second": "64"
+            },
+            {
+                "level": "4",
+                "hitpoints": "399",
+                "damage": "99",
+                "damage_per_second": "70"
+            },
+            {
+                "level": "5",
+                "hitpoints": "438",
+                "damage": "109",
+                "damage_per_second": "77"
+            },
+            {
+                "level": "6",
+                "hitpoints": "480",
+                "damage": "120",
+                "damage_per_second": "85"
+            },
+            {
+                "level": "7",
+                "hitpoints": "528",
+                "damage": "132",
+                "damage_per_second": "94"
+            },
+            {
+                "level": "8",
+                "hitpoints": "579",
+                "damage": "144",
+                "damage_per_second": "102"
+            },
+            {
+                "level": "9",
+                "hitpoints": "636",
+                "damage": "159",
+                "damage_per_second": "113"
+            },
+            {
+                "level": "10",
+                "hitpoints": "699",
+                "damage": "174",
+                "damage_per_second": "124"
+            },
+            {
+                "level": "11",
+                "hitpoints": "768",
+                "damage": "192",
+                "damage_per_second": "137"
+            },
+            {
+                "level": "12",
+                "hitpoints": "843",
+                "damage": "210",
+                "damage_per_second": "150"
+            },
+            {
+                "level": "13",
+                "hitpoints": "927",
+                "damage": "231",
+                "damage_per_second": "165"
+            }
+        ]
+    },
+    {
+        "name": "Skeleton_Army",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "51",
+                "damage": "51",
+                "damage_per_second": "51"
+            },
+            {
+                "level": "2",
+                "hitpoints": "56",
+                "damage": "56",
+                "damage_per_second": "56"
+            },
+            {
+                "level": "3",
+                "hitpoints": "61",
+                "damage": "61",
+                "damage_per_second": "61"
+            },
+            {
+                "level": "4",
+                "hitpoints": "67",
+                "damage": "67",
+                "damage_per_second": "67"
+            },
+            {
+                "level": "5",
+                "hitpoints": "74",
+                "damage": "74",
+                "damage_per_second": "74"
+            },
+            {
+                "level": "6",
+                "hitpoints": "81",
+                "damage": "81",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "7",
+                "hitpoints": "89",
+                "damage": "89",
+                "damage_per_second": "89"
+            },
+            {
+                "level": "8",
+                "hitpoints": "98",
+                "damage": "98",
+                "damage_per_second": "98"
+            }
+        ]
+    },
+    {
+        "name": "Elite_Barbarians",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "458",
+                "damage": "120",
+                "damage_per_second": "80"
+            },
+            {
+                "level": "2",
+                "hitpoints": "503",
+                "damage": "132",
+                "damage_per_second": "88"
+            },
+            {
+                "level": "3",
+                "hitpoints": "554",
+                "damage": "145",
+                "damage_per_second": "96"
+            },
+            {
+                "level": "4",
+                "hitpoints": "609",
+                "damage": "159",
+                "damage_per_second": "106"
+            },
+            {
+                "level": "5",
+                "hitpoints": "668",
+                "damage": "175",
+                "damage_per_second": "116"
+            },
+            {
+                "level": "6",
+                "hitpoints": "732",
+                "damage": "192",
+                "damage_per_second": "128"
+            },
+            {
+                "level": "7",
+                "hitpoints": "806",
+                "damage": "211",
+                "damage_per_second": "140"
+            },
+            {
+                "level": "8",
+                "hitpoints": "883",
+                "damage": "231",
+                "damage_per_second": "154"
+            },
+            {
+                "level": "9",
+                "hitpoints": "970",
+                "damage": "254",
+                "damage_per_second": "169"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,067",
+                "damage": "279",
+                "damage_per_second": "186"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,172",
+                "damage": "307",
+                "damage_per_second": "204"
+            },
+            {
+                "level": "12",
+                "hitpoints": "1,286",
+                "damage": "337",
+                "damage_per_second": "224"
+            },
+            {
+                "level": "13",
+                "hitpoints": "1,415",
+                "damage": "370",
+                "damage_per_second": "246"
+            }
+        ]
+    },
+    {
+        "name": "Fire_Spirits",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "43",
+                "area_damage": "84"
+            },
+            {
+                "level": "2",
+                "hitpoints": "47",
+                "area_damage": "92"
+            },
+            {
+                "level": "3",
+                "hitpoints": "52",
+                "area_damage": "101"
+            },
+            {
+                "level": "4",
+                "hitpoints": "57",
+                "area_damage": "111"
+            },
+            {
+                "level": "5",
+                "hitpoints": "62",
+                "area_damage": "122"
+            },
+            {
+                "level": "6",
+                "hitpoints": "68",
+                "area_damage": "134"
+            },
+            {
+                "level": "7",
+                "hitpoints": "75",
+                "area_damage": "147"
+            },
+            {
+                "level": "8",
+                "hitpoints": "82",
+                "area_damage": "162"
+            },
+            {
+                "level": "9",
+                "hitpoints": "91",
+                "area_damage": "178"
+            },
+            {
+                "level": "10",
+                "hitpoints": "100",
+                "area_damage": "195"
+            },
+            {
+                "level": "11",
+                "hitpoints": "110",
+                "area_damage": "215"
+            },
+            {
+                "level": "12",
+                "hitpoints": "120",
+                "area_damage": "236"
+            },
+            {
+                "level": "13",
+                "hitpoints": "132",
+                "area_damage": "259"
+            }
+        ]
+    },
+    {
+        "name": "Minions",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "90",
+                "damage": "40",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "2",
+                "hitpoints": "99",
+                "damage": "44",
+                "damage_per_second": "44"
+            },
+            {
+                "level": "3",
+                "hitpoints": "108",
+                "damage": "48",
+                "damage_per_second": "48"
+            },
+            {
+                "level": "4",
+                "hitpoints": "119",
+                "damage": "53",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "5",
+                "hitpoints": "131",
+                "damage": "58",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "6",
+                "hitpoints": "144",
+                "damage": "64",
+                "damage_per_second": "64"
+            },
+            {
+                "level": "7",
+                "hitpoints": "158",
+                "damage": "70",
+                "damage_per_second": "70"
+            },
+            {
+                "level": "8",
+                "hitpoints": "173",
+                "damage": "77",
+                "damage_per_second": "77"
+            },
+            {
+                "level": "9",
+                "hitpoints": "190",
+                "damage": "84",
+                "damage_per_second": "84"
+            },
+            {
+                "level": "10",
+                "hitpoints": "209",
+                "damage": "93",
+                "damage_per_second": "93"
+            },
+            {
+                "level": "11",
+                "hitpoints": "230",
+                "damage": "102",
+                "damage_per_second": "102"
+            },
+            {
+                "level": "12",
+                "hitpoints": "252",
+                "damage": "112",
+                "damage_per_second": "112"
+            },
+            {
+                "level": "13",
+                "hitpoints": "278",
+                "damage": "123",
+                "damage_per_second": "123"
+            }
+        ]
+    },
+    {
+        "name": "Knight",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "637",
+                "damage": "75",
+                "damage_per_second": "62"
+            },
+            {
+                "level": "2",
+                "hitpoints": "700",
+                "damage": "82",
+                "damage_per_second": "68"
+            },
+            {
+                "level": "3",
+                "hitpoints": "770",
+                "damage": "90",
+                "damage_per_second": "75"
+            },
+            {
+                "level": "4",
+                "hitpoints": "847",
+                "damage": "99",
+                "damage_per_second": "82"
+            },
+            {
+                "level": "5",
+                "hitpoints": "930",
+                "damage": "109",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,019",
+                "damage": "120",
+                "damage_per_second": "100"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,121",
+                "damage": "132",
+                "damage_per_second": "110"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,229",
+                "damage": "144",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,350",
+                "damage": "159",
+                "damage_per_second": "132"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,484",
+                "damage": "174",
+                "damage_per_second": "145"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,630",
+                "damage": "192",
+                "damage_per_second": "160"
+            },
+            {
+                "level": "12",
+                "hitpoints": "1,789",
+                "damage": "210",
+                "damage_per_second": "175"
+            },
+            {
+                "level": "13",
+                "hitpoints": "1,968",
+                "damage": "231",
+                "damage_per_second": "192"
+            }
+        ]
+    },
+    {
+        "name": "Goblin_Gang",
+        "stats": [
+            {
+                "level": "1",
+                "goblin_hitpoints": "80",
+                "goblin_damage": "47",
+                "goblin_damage_per_second": "42",
+                "spear_goblin_hitpoints": "52",
+                "spear_goblin_damage": "32",
+                "spear_goblin_damage_per_second": "18"
+            },
+            {
+                "level": "2",
+                "goblin_hitpoints": "88",
+                "goblin_damage": "51",
+                "goblin_damage_per_second": "46",
+                "spear_goblin_hitpoints": "57",
+                "spear_goblin_damage": "35",
+                "spear_goblin_damage_per_second": "20"
+            },
+            {
+                "level": "3",
+                "goblin_hitpoints": "96",
+                "goblin_damage": "56",
+                "goblin_damage_per_second": "50",
+                "spear_goblin_hitpoints": "62",
+                "spear_goblin_damage": "38",
+                "spear_goblin_damage_per_second": "22"
+            },
+            {
+                "level": "4",
+                "goblin_hitpoints": "106",
+                "goblin_damage": "62",
+                "goblin_damage_per_second": "56",
+                "spear_goblin_hitpoints": "69",
+                "spear_goblin_damage": "42",
+                "spear_goblin_damage_per_second": "24"
+            },
+            {
+                "level": "5",
+                "goblin_hitpoints": "116",
+                "goblin_damage": "68",
+                "goblin_damage_per_second": "61",
+                "spear_goblin_hitpoints": "75",
+                "spear_goblin_damage": "46",
+                "spear_goblin_damage_per_second": "27"
+            },
+            {
+                "level": "6",
+                "goblin_hitpoints": "128",
+                "goblin_damage": "75",
+                "goblin_damage_per_second": "68",
+                "spear_goblin_hitpoints": "83",
+                "spear_goblin_damage": "51",
+                "spear_goblin_damage_per_second": "30"
+            },
+            {
+                "level": "7",
+                "goblin_hitpoints": "140",
+                "goblin_damage": "82",
+                "goblin_damage_per_second": "74",
+                "spear_goblin_hitpoints": "91",
+                "spear_goblin_damage": "56",
+                "spear_goblin_damage_per_second": "32"
+            },
+            {
+                "level": "8",
+                "goblin_hitpoints": "154",
+                "goblin_damage": "90",
+                "goblin_damage_per_second": "81",
+                "spear_goblin_hitpoints": "100",
+                "spear_goblin_damage": "61",
+                "spear_goblin_damage_per_second": "35"
+            },
+            {
+                "level": "9",
+                "goblin_hitpoints": "169",
+                "goblin_damage": "99",
+                "goblin_damage_per_second": "90",
+                "spear_goblin_hitpoints": "110",
+                "spear_goblin_damage": "67",
+                "spear_goblin_damage_per_second": "39"
+            },
+            {
+                "level": "10",
+                "goblin_hitpoints": "186",
+                "goblin_damage": "109",
+                "goblin_damage_per_second": "99",
+                "spear_goblin_hitpoints": "121",
+                "spear_goblin_damage": "74",
+                "spear_goblin_damage_per_second": "43"
+            },
+            {
+                "level": "11",
+                "goblin_hitpoints": "204",
+                "goblin_damage": "120",
+                "goblin_damage_per_second": "109",
+                "spear_goblin_hitpoints": "133",
+                "spear_goblin_damage": "81",
+                "spear_goblin_damage_per_second": "47"
+            },
+            {
+                "level": "12",
+                "goblin_hitpoints": "224",
+                "goblin_damage": "132",
+                "goblin_damage_per_second": "120",
+                "spear_goblin_hitpoints": "146",
+                "spear_goblin_damage": "89",
+                "spear_goblin_damage_per_second": "52"
+            },
+            {
+                "level": "13",
+                "goblin_hitpoints": "247",
+                "goblin_damage": "145",
+                "goblin_damage_per_second": "131",
+                "spear_goblin_hitpoints": "160",
+                "spear_goblin_damage": "98",
+                "spear_goblin_damage_per_second": "57"
+            }
+        ]
+    },
+    {
+        "name": "Mega_Minion",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "395",
+                "damage": "147",
+                "damage_per_second": "92"
+            },
+            {
+                "level": "2",
+                "hitpoints": "434",
+                "damage": "161",
+                "damage_per_second": "101"
+            },
+            {
+                "level": "3",
+                "hitpoints": "477",
+                "damage": "177",
+                "damage_per_second": "111"
+            },
+            {
+                "level": "4",
+                "hitpoints": "525",
+                "damage": "195",
+                "damage_per_second": "122"
+            },
+            {
+                "level": "5",
+                "hitpoints": "576",
+                "damage": "214",
+                "damage_per_second": "134"
+            },
+            {
+                "level": "6",
+                "hitpoints": "632",
+                "damage": "235",
+                "damage_per_second": "147"
+            },
+            {
+                "level": "7",
+                "hitpoints": "695",
+                "damage": "258",
+                "damage_per_second": "161"
+            },
+            {
+                "level": "8",
+                "hitpoints": "762",
+                "damage": "283",
+                "damage_per_second": "177"
+            },
+            {
+                "level": "9",
+                "hitpoints": "837",
+                "damage": "311",
+                "damage_per_second": "194"
+            },
+            {
+                "level": "10",
+                "hitpoints": "920",
+                "damage": "342",
+                "damage_per_second": "214"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,011",
+                "damage": "376",
+                "damage_per_second": "235"
+            }
+        ]
+    },
+    {
+        "name": "Barbarian_Barrel",
+        "stats": [
+            {
+                "cost": "3",
+                "target": "Ground",
+                "range": "7",
+                "width": "3.9",
+                "type": "Spell",
+                "rarity": "Epic",
+                "level": "1",
+                "area_damage": "211",
+                "crown_tower_damage": "74",
+                "barbarian_level": "6"
+            },
+            {
+                "cost": "2",
+                "target": "232",
+                "range": "81",
+                "width": "7",
+                "type": "3",
+                "rarity": "255",
+                "level": "89",
+                "area_damage": "8",
+                "crown_tower_damage": "4",
+                "barbarian_level": "280"
+            },
+            {
+                "cost": "98",
+                "target": "9",
+                "range": "5",
+                "width": "308",
+                "type": "108",
+                "rarity": "10",
+                "level": "6",
+                "area_damage": "337",
+                "crown_tower_damage": "118",
+                "barbarian_level": "11"
+            },
+            {
+                "cost": "7",
+                "target": "371",
+                "range": "130",
+                "width": "12",
+                "type": "8",
+                "rarity": "407",
+                "level": "142",
+                "area_damage": "13"
+            }
+        ]
+    },
+    {
+        "name": "Tornado",
+        "stats": [
+            {
+                "level": "1",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "2",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "3",
+                "damage_per_second": "64"
+            },
+            {
+                "level": "4",
+                "damage_per_second": "70"
+            },
+            {
+                "level": "5",
+                "damage_per_second": "77"
+            },
+            {
+                "level": "6",
+                "damage_per_second": "84"
+            },
+            {
+                "level": "7",
+                "damage_per_second": "93"
+            },
+            {
+                "level": "8",
+                "damage_per_second": "102"
+            }
+        ]
+    },
+    {
+        "name": "Clone",
+        "stats": [
+            {
+                "_level": "1",
+                "_cloned_common_level": "6",
+                "_cloned_rare_level": "4",
+                "_cloned_epic_level": "1",
+                "_cloned_legendary_level": "1"
+            },
+            {
+                "_level": "2",
+                "_cloned_common_level": "7",
+                "_cloned_rare_level": "5",
+                "_cloned_epic_level": "2",
+                "_cloned_legendary_level": "1"
+            },
+            {
+                "_level": "3",
+                "_cloned_common_level": "8",
+                "_cloned_rare_level": "6",
+                "_cloned_epic_level": "3",
+                "_cloned_legendary_level": "1"
+            },
+            {
+                "_level": "4",
+                "_cloned_common_level": "9",
+                "_cloned_rare_level": "7",
+                "_cloned_epic_level": "4",
+                "_cloned_legendary_level": "1"
+            },
+            {
+                "_level": "5",
+                "_cloned_common_level": "10",
+                "_cloned_rare_level": "8",
+                "_cloned_epic_level": "5",
+                "_cloned_legendary_level": "2"
+            },
+            {
+                "_level": "6",
+                "_cloned_common_level": "11",
+                "_cloned_rare_level": "9",
+                "_cloned_epic_level": "6",
+                "_cloned_legendary_level": "3"
+            },
+            {
+                "_level": "7",
+                "_cloned_common_level": "12",
+                "_cloned_rare_level": "10",
+                "_cloned_epic_level": "7",
+                "_cloned_legendary_level": "4"
+            },
+            {
+                "_level": "8",
+                "_cloned_common_level": "13",
+                "_cloned_rare_level": "11",
+                "_cloned_epic_level": "8",
+                "_cloned_legendary_level": "5"
+            }
+        ]
+    },
+    {
+        "name": "Lava_Hound",
+        "stats": [
+            {
+                "level": "1",
+                "lava_hound_hitpoints": "3,150",
+                "lava_hound_damage": "45",
+                "lava_hound_damage_per_second": "34",
+                "lava_pup_hitpoints": "179",
+                "lava_pup_damage": "45",
+                "lava_pup_damage_per_second": "45"
+            },
+            {
+                "level": "2",
+                "lava_hound_hitpoints": "3,465",
+                "lava_hound_damage": "49",
+                "lava_hound_damage_per_second": "37",
+                "lava_pup_hitpoints": "196",
+                "lava_pup_damage": "49",
+                "lava_pup_damage_per_second": "49"
+            },
+            {
+                "level": "3",
+                "lava_hound_hitpoints": "3,811",
+                "lava_hound_damage": "54",
+                "lava_hound_damage_per_second": "41",
+                "lava_pup_hitpoints": "216",
+                "lava_pup_damage": "54",
+                "lava_pup_damage_per_second": "54"
+            },
+            {
+                "level": "4",
+                "lava_hound_hitpoints": "4,189",
+                "lava_hound_damage": "59",
+                "lava_hound_damage_per_second": "45",
+                "lava_pup_hitpoints": "238",
+                "lava_pup_damage": "59",
+                "lava_pup_damage_per_second": "59"
+            },
+            {
+                "level": "5",
+                "lava_hound_hitpoints": "4,599",
+                "lava_hound_damage": "65",
+                "lava_hound_damage_per_second": "50",
+                "lava_pup_hitpoints": "261",
+                "lava_pup_damage": "65",
+                "lava_pup_damage_per_second": "65"
+            }
+        ]
+    },
+    {
+        "name": "Heal",
+        "stats": [
+            {
+                "level": "1",
+                "healing_per_second": "100"
+            },
+            {
+                "level": "2",
+                "healing_per_second": "110"
+            },
+            {
+                "level": "3",
+                "healing_per_second": "121"
+            },
+            {
+                "level": "4",
+                "healing_per_second": "133"
+            },
+            {
+                "level": "5",
+                "healing_per_second": "146"
+            },
+            {
+                "level": "6",
+                "healing_per_second": "160"
+            },
+            {
+                "level": "7",
+                "healing_per_second": "176"
+            },
+            {
+                "level": "8",
+                "healing_per_second": "193"
+            },
+            {
+                "level": "9",
+                "healing_per_second": "212"
+            },
+            {
+                "level": "10",
+                "healing_per_second": "233"
+            },
+            {
+                "level": "11",
+                "healing_per_second": "256"
+            }
+        ]
+    },
+    {
+        "name": "Executioner",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "760",
+                "area_damage": "106 x2",
+                "damage_per_second": "44 x2"
+            },
+            {
+                "level": "2",
+                "hitpoints": "836",
+                "area_damage": "116 x2",
+                "damage_per_second": "48 x2"
+            },
+            {
+                "level": "3",
+                "hitpoints": "919",
+                "area_damage": "128 x2",
+                "damage_per_second": "53 x2"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,010",
+                "area_damage": "140 x2",
+                "damage_per_second": "58 x2"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,109",
+                "area_damage": "154 x2",
+                "damage_per_second": "64 x2"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,216",
+                "area_damage": "169 x2",
+                "damage_per_second": "70 x2"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,337",
+                "area_damage": "186 x2",
+                "damage_per_second": "77 x2"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,466",
+                "area_damage": "204 x2",
+                "damage_per_second": "85 x2"
+            }
+        ]
+    },
+    {
+        "name": "Rage",
+        "stats": [
+            {
+                "level": "1",
+                "duration": "6.0 sec"
+            },
+            {
+                "level": "2",
+                "duration": "6.5 sec"
+            },
+            {
+                "level": "3",
+                "duration": "7.0 sec"
+            },
+            {
+                "level": "4",
+                "duration": "7.5 sec"
+            },
+            {
+                "level": "5",
+                "duration": "8.0 sec"
+            },
+            {
+                "level": "6",
+                "duration": "8.5 sec"
+            },
+            {
+                "level": "7",
+                "duration": "9.0 sec"
+            },
+            {
+                "level": "8",
+                "duration": "9.5 sec"
+            }
+        ]
+    },
+    {
+        "name": "Flying_Machine",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "290",
+                "damage": "81",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "2",
+                "hitpoints": "319",
+                "damage": "89",
+                "damage_per_second": "89"
+            },
+            {
+                "level": "3",
+                "hitpoints": "350",
+                "damage": "98",
+                "damage_per_second": "98"
+            },
+            {
+                "level": "4",
+                "hitpoints": "385",
+                "damage": "107",
+                "damage_per_second": "107"
+            },
+            {
+                "level": "5",
+                "hitpoints": "423",
+                "damage": "118",
+                "damage_per_second": "118"
+            },
+            {
+                "level": "6",
+                "hitpoints": "464",
+                "damage": "129",
+                "damage_per_second": "129"
+            },
+            {
+                "level": "7",
+                "hitpoints": "510",
+                "damage": "142",
+                "damage_per_second": "142"
+            },
+            {
+                "level": "8",
+                "hitpoints": "559",
+                "damage": "156",
+                "damage_per_second": "156"
+            },
+            {
+                "level": "9",
+                "hitpoints": "614",
+                "damage": "171",
+                "damage_per_second": "171"
+            },
+            {
+                "level": "10",
+                "hitpoints": "675",
+                "damage": "188",
+                "damage_per_second": "188"
+            },
+            {
+                "level": "11",
+                "hitpoints": "742",
+                "damage": "207",
+                "damage_per_second": "207"
+            }
+        ]
+    },
+    {
+        "name": "Archers",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "120",
+                "damage": "41",
+                "damage_per_second": "34"
+            },
+            {
+                "level": "2",
+                "hitpoints": "132",
+                "damage": "45",
+                "damage_per_second": "37"
+            },
+            {
+                "level": "3",
+                "hitpoints": "145",
+                "damage": "49",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "4",
+                "hitpoints": "159",
+                "damage": "54",
+                "damage_per_second": "45"
+            },
+            {
+                "level": "5",
+                "hitpoints": "175",
+                "damage": "59",
+                "damage_per_second": "49"
+            },
+            {
+                "level": "6",
+                "hitpoints": "192",
+                "damage": "65",
+                "damage_per_second": "54"
+            },
+            {
+                "level": "7",
+                "hitpoints": "211",
+                "damage": "72",
+                "damage_per_second": "60"
+            },
+            {
+                "level": "8",
+                "hitpoints": "231",
+                "damage": "79",
+                "damage_per_second": "65"
+            },
+            {
+                "level": "9",
+                "hitpoints": "254",
+                "damage": "86",
+                "damage_per_second": "71"
+            },
+            {
+                "level": "10",
+                "hitpoints": "279",
+                "damage": "95",
+                "damage_per_second": "79"
+            },
+            {
+                "level": "11",
+                "hitpoints": "307",
+                "damage": "104",
+                "damage_per_second": "86"
+            },
+            {
+                "level": "12",
+                "hitpoints": "337",
+                "damage": "115",
+                "damage_per_second": "95"
+            },
+            {
+                "level": "13",
+                "hitpoints": "370",
+                "damage": "126",
+                "damage_per_second": "105"
+            }
+        ]
+    },
+    {
+        "name": "Goblin_Hut",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "735",
+                "spear_goblin_level": "3"
+            },
+            {
+                "level": "2",
+                "hitpoints": "808",
+                "spear_goblin_level": "4"
+            },
+            {
+                "level": "3",
+                "hitpoints": "889",
+                "spear_goblin_level": "5"
+            },
+            {
+                "level": "4",
+                "hitpoints": "977",
+                "spear_goblin_level": "6"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,073",
+                "spear_goblin_level": "7"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,176",
+                "spear_goblin_level": "8"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,293",
+                "spear_goblin_level": "9"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,418",
+                "spear_goblin_level": "10"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,558",
+                "spear_goblin_level": "11"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,712",
+                "spear_goblin_level": "12"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,881",
+                "spear_goblin_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Royal_Hogs",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "395",
+                "damage": "34",
+                "damage_per_second": "30"
+            },
+            {
+                "level": "2",
+                "hitpoints": "434",
+                "damage": "37",
+                "damage_per_second": "33"
+            },
+            {
+                "level": "3",
+                "hitpoints": "477",
+                "damage": "41",
+                "damage_per_second": "37"
+            },
+            {
+                "level": "4",
+                "hitpoints": "525",
+                "damage": "45",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "5",
+                "hitpoints": "576",
+                "damage": "49",
+                "damage_per_second": "44"
+            },
+            {
+                "level": "6",
+                "hitpoints": "632",
+                "damage": "54",
+                "damage_per_second": "49"
+            },
+            {
+                "level": "7",
+                "hitpoints": "695",
+                "damage": "59",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "8",
+                "hitpoints": "762",
+                "damage": "65",
+                "damage_per_second": "59"
+            },
+            {
+                "level": "9",
+                "hitpoints": "837",
+                "damage": "72",
+                "damage_per_second": "65"
+            },
+            {
+                "level": "10",
+                "hitpoints": "920",
+                "damage": "79",
+                "damage_per_second": "71"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1011",
+                "damage": "87",
+                "damage_per_second": "79"
+            }
+        ]
+    },
+    {
+        "name": "Giant_Snowball",
+        "stats": [
+            {
+                "level": "1",
+                "area_damage": "60",
+                "crown_tower_damage": "21"
+            },
+            {
+                "level": "2",
+                "area_damage": "66",
+                "crown_tower_damage": "24"
+            },
+            {
+                "level": "3",
+                "area_damage": "72",
+                "crown_tower_damage": "26"
+            },
+            {
+                "level": "4",
+                "area_damage": "79",
+                "crown_tower_damage": "28"
+            },
+            {
+                "level": "5",
+                "area_damage": "87",
+                "crown_tower_damage": "31"
+            },
+            {
+                "level": "6",
+                "area_damage": "96",
+                "crown_tower_damage": "34"
+            },
+            {
+                "level": "7",
+                "area_damage": "105",
+                "crown_tower_damage": "37"
+            },
+            {
+                "level": "8",
+                "area_damage": "115",
+                "crown_tower_damage": "41"
+            },
+            {
+                "level": "9",
+                "area_damage": "127",
+                "crown_tower_damage": "45"
+            },
+            {
+                "level": "10",
+                "area_damage": "139",
+                "crown_tower_damage": "49"
+            },
+            {
+                "level": "11",
+                "area_damage": "153",
+                "crown_tower_damage": "54"
+            },
+            {
+                "level": "12",
+                "area_damage": "168",
+                "crown_tower_damage": "59"
+            },
+            {
+                "level": "13",
+                "area_damage": "185",
+                "crown_tower_damage": "65"
+            }
+        ]
+    },
+    {
+        "name": "Tombstone",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "240",
+                "skeleton_level": "3"
+            },
+            {
+                "level": "2",
+                "hitpoints": "264",
+                "skeleton_level": "4"
+            },
+            {
+                "level": "3",
+                "hitpoints": "290",
+                "skeleton_level": "5"
+            },
+            {
+                "level": "4",
+                "hitpoints": "319",
+                "skeleton_level": "6"
+            },
+            {
+                "level": "5",
+                "hitpoints": "350",
+                "skeleton_level": "7"
+            },
+            {
+                "level": "6",
+                "hitpoints": "384",
+                "skeleton_level": "8"
+            },
+            {
+                "level": "7",
+                "hitpoints": "422",
+                "skeleton_level": "9"
+            },
+            {
+                "level": "8",
+                "hitpoints": "462",
+                "skeleton_level": "10"
+            },
+            {
+                "level": "9",
+                "hitpoints": "508",
+                "skeleton_level": "11"
+            },
+            {
+                "level": "10",
+                "hitpoints": "558",
+                "skeleton_level": "12"
+            },
+            {
+                "level": "11",
+                "hitpoints": "614",
+                "skeleton_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Mortar",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "596",
+                "area_damage": "104",
+                "damage_per_second": "20"
+            },
+            {
+                "level": "2",
+                "hitpoints": "633",
+                "area_damage": "114",
+                "damage_per_second": "22"
+            },
+            {
+                "level": "3",
+                "hitpoints": "696",
+                "area_damage": "126",
+                "damage_per_second": "25"
+            },
+            {
+                "level": "4",
+                "hitpoints": "766",
+                "area_damage": "138",
+                "damage_per_second": "27"
+            },
+            {
+                "level": "5",
+                "hitpoints": "840",
+                "area_damage": "152",
+                "damage_per_second": "30"
+            },
+            {
+                "level": "6",
+                "hitpoints": "921",
+                "area_damage": "166",
+                "damage_per_second": "33"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,013",
+                "area_damage": "183",
+                "damage_per_second": "36"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,111",
+                "area_damage": "201",
+                "damage_per_second": "40"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,221",
+                "area_damage": "220",
+                "damage_per_second": "44"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,342",
+                "area_damage": "242",
+                "damage_per_second": "58"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,474",
+                "area_damage": "266",
+                "damage_per_second": "53"
+            },
+            {
+                "level": "12",
+                "hitpoints": "1,616",
+                "area_damage": "292",
+                "damage_per_second": "68"
+            },
+            {
+                "level": "13",
+                "hitpoints": "1,779",
+                "area_damage": "322",
+                "damage_per_second": "64"
+            }
+        ]
+    },
+    {
+        "name": "Golem",
+        "stats": [
+            {
+                "level": "1",
+                "golem_hitpoints": "3,200",
+                "golem_damage": "195",
+                "golem_damage_per_second": "78",
+                "golem_death_damage": "195",
+                "golemite_hitpoints": "650",
+                "golemite_damage": "40",
+                "golemite_damage_per_second": "16",
+                "golemite_death_damage": "40"
+            },
+            {
+                "level": "2",
+                "golem_hitpoints": "3,520",
+                "golem_damage": "214",
+                "golem_damage_per_second": "85",
+                "golem_death_damage": "214",
+                "golemite_hitpoints": "715",
+                "golemite_damage": "44",
+                "golemite_damage_per_second": "17",
+                "golemite_death_damage": "44"
+            },
+            {
+                "level": "3",
+                "golem_hitpoints": "3,872",
+                "golem_damage": "235",
+                "golem_damage_per_second": "94",
+                "golem_death_damage": "235",
+                "golemite_hitpoints": "786",
+                "golemite_damage": "48",
+                "golemite_damage_per_second": "19",
+                "golemite_death_damage": "48"
+            },
+            {
+                "level": "4",
+                "golem_hitpoints": "4,256",
+                "golem_damage": "259",
+                "golem_damage_per_second": "103",
+                "golem_death_damage": "259",
+                "golemite_hitpoints": "864",
+                "golemite_damage": "53",
+                "golemite_damage_per_second": "21",
+                "golemite_death_damage": "53"
+            },
+            {
+                "level": "5",
+                "golem_hitpoints": "4,672 ",
+                "golem_damage": "284",
+                "golem_damage_per_second": "113",
+                "golem_death_damage": "284",
+                "golemite_hitpoints": "949",
+                "golemite_damage": "58",
+                "golemite_damage_per_second": "23",
+                "golemite_death_damage": "58"
+            },
+            {
+                "level": "6",
+                "golem_hitpoints": "5,120",
+                "golem_damage": "312",
+                "golem_damage_per_second": "124",
+                "golem_death_damage": "312",
+                "golemite_hitpoints": "1,040",
+                "golemite_damage": "64",
+                "golemite_damage_per_second": "25",
+                "golemite_death_damage": "64"
+            },
+            {
+                "level": "7",
+                "golem_hitpoints": "5,632",
+                "golem_damage": "343",
+                "golem_damage_per_second": "137 ",
+                "golem_death_damage": "343",
+                "golemite_hitpoints": "1,144",
+                "golemite_damage": "70",
+                "golemite_damage_per_second": "28",
+                "golemite_death_damage": "70"
+            },
+            {
+                "level": "8",
+                "golem_hitpoints": "6,176",
+                "golem_damage": "376",
+                "golem_damage_per_second": "150",
+                "golem_death_damage": "376",
+                "golemite_hitpoints": "1,254",
+                "golemite_damage": "77",
+                "golemite_damage_per_second": "30",
+                "golemite_death_damage": "77"
+            }
+        ]
+    },
+    {
+        "name": "Night_Witch",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "750",
+                "damage": "260",
+                "damage_per_second": "173",
+                "bat_level": "9"
+            },
+            {
+                "level": "2",
+                "hitpoints": "825",
+                "damage": "286",
+                "damage_per_second": "190",
+                "bat_level": "10"
+            },
+            {
+                "level": "3",
+                "hitpoints": "907",
+                "damage": "314",
+                "damage_per_second": "209",
+                "bat_level": "11"
+            },
+            {
+                "level": "4",
+                "hitpoints": "997",
+                "damage": "345",
+                "damage_per_second": "230",
+                "bat_level": "12"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,095",
+                "damage": "379",
+                "damage_per_second": "252",
+                "bat_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Miner",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,000",
+                "damage": "160",
+                "damage_per_second": "133",
+                "crown_tower_damage": "64"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,100",
+                "damage": "176",
+                "damage_per_second": "146",
+                "crown_tower_damage": "71"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,210",
+                "damage": "193",
+                "damage_per_second": "160",
+                "crown_tower_damage": "78"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,330",
+                "damage": "212",
+                "damage_per_second": "176",
+                "crown_tower_damage": "85"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,460",
+                "damage": "233",
+                "damage_per_second": "194",
+                "crown_tower_damage": "94"
+            }
+        ]
+    },
+    {
+        "name": "Rascals",
+        "stats": [
+            {
+                "level": "1",
+                "rascal_boy_hitpoints": "715",
+                "rascal_boy_damage": "52",
+                "rascal_boy_damage_per_second": "40",
+                "rascal_girl_hitpoints": "102",
+                "rascal_girl_damage": "52",
+                "rascal_girl_damage_per_second": "47"
+            },
+            {
+                "level": "2",
+                "rascal_boy_hitpoints": "786",
+                "rascal_boy_damage": "57",
+                "rascal_boy_damage_per_second": "43",
+                "rascal_girl_hitpoints": "112",
+                "rascal_girl_damage": "57",
+                "rascal_girl_damage_per_second": "51"
+            },
+            {
+                "level": "3",
+                "rascal_boy_hitpoints": "865",
+                "rascal_boy_damage": "62",
+                "rascal_boy_damage_per_second": "47",
+                "rascal_girl_hitpoints": "123",
+                "rascal_girl_damage": "62",
+                "rascal_girl_damage_per_second": "56"
+            },
+            {
+                "level": "4",
+                "rascal_boy_hitpoints": "950",
+                "rascal_boy_damage": "69",
+                "rascal_boy_damage_per_second": "53",
+                "rascal_girl_hitpoints": "135",
+                "rascal_girl_damage": "69",
+                "rascal_girl_damage_per_second": "62"
+            },
+            {
+                "level": "5",
+                "rascal_boy_hitpoints": "1,043",
+                "rascal_boy_damage": "75",
+                "rascal_boy_damage_per_second": "57",
+                "rascal_girl_hitpoints": "148",
+                "rascal_girl_damage": "75",
+                "rascal_girl_damage_per_second": "68"
+            },
+            {
+                "level": "6",
+                "rascal_boy_hitpoints": "1,143",
+                "rascal_boy_damage": "83",
+                "rascal_boy_damage_per_second": "63",
+                "rascal_girl_hitpoints": "163",
+                "rascal_girl_damage": "83",
+                "rascal_girl_damage_per_second": "75"
+            },
+            {
+                "level": "7",
+                "rascal_boy_hitpoints": "1,258",
+                "rascal_boy_damage": "91",
+                "rascal_boy_damage_per_second": "70",
+                "rascal_girl_hitpoints": "179",
+                "rascal_girl_damage": "91",
+                "rascal_girl_damage_per_second": "82"
+            },
+            {
+                "level": "8",
+                "rascal_boy_hitpoints": "1,379",
+                "rascal_boy_damage": "100",
+                "rascal_boy_damage_per_second": "76",
+                "rascal_girl_hitpoints": "196",
+                "rascal_girl_damage": "100",
+                "rascal_girl_damage_per_second": "90"
+            },
+            {
+                "level": "9",
+                "rascal_boy_hitpoints": "1,515",
+                "rascal_boy_damage": "110",
+                "rascal_boy_damage_per_second": "84",
+                "rascal_girl_hitpoints": "216",
+                "rascal_girl_damage": "110",
+                "rascal_girl_damage_per_second": "100"
+            },
+            {
+                "level": "10",
+                "rascal_boy_hitpoints": "1,665",
+                "rascal_boy_damage": "121",
+                "rascal_boy_damage_per_second": "93",
+                "rascal_girl_hitpoints": "237",
+                "rascal_girl_damage": "121",
+                "rascal_girl_damage_per_second": "110"
+            },
+            {
+                "level": "11",
+                "rascal_boy_hitpoints": "1,830",
+                "rascal_boy_damage": "133",
+                "rascal_boy_damage_per_second": "102",
+                "rascal_girl_hitpoints": "261",
+                "rascal_girl_damage": "133",
+                "rascal_girl_damage_per_second": "120"
+            },
+            {
+                "level": "12",
+                "rascal_boy_hitpoints": "2,009",
+                "rascal_boy_damage": "146",
+                "rascal_boy_damage_per_second": "112",
+                "rascal_girl_hitpoints": "286",
+                "rascal_girl_damage": "146",
+                "rascal_girl_damage_per_second": "132"
+            },
+            {
+                "level": "13",
+                "rascal_boy_hitpoints": "2,209",
+                "rascal_boy_damage": "160",
+                "rascal_boy_damage_per_second": "123",
+                "rascal_girl_hitpoints": "315",
+                "rascal_girl_damage": "160",
+                "rascal_girl_damage_per_second": "145"
+            }
+        ]
+    },
+    {
+        "name": "Bomber",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "147",
+                "area_damage": "128",
+                "damage_per_second": "67"
+            },
+            {
+                "level": "2",
+                "hitpoints": "161",
+                "area_damage": "140",
+                "damage_per_second": "73"
+            },
+            {
+                "level": "3",
+                "hitpoints": "177",
+                "area_damage": "154",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "4",
+                "hitpoints": "195",
+                "area_damage": "170",
+                "damage_per_second": "89"
+            },
+            {
+                "level": "5",
+                "hitpoints": "214",
+                "area_damage": "186",
+                "damage_per_second": "97"
+            },
+            {
+                "level": "6",
+                "hitpoints": "235",
+                "area_damage": "204",
+                "damage_per_second": "107"
+            },
+            {
+                "level": "7",
+                "hitpoints": "258",
+                "area_damage": "225",
+                "damage_per_second": "118"
+            },
+            {
+                "level": "8",
+                "hitpoints": "283",
+                "area_damage": "247",
+                "damage_per_second": "130"
+            },
+            {
+                "level": "9",
+                "hitpoints": "311",
+                "area_damage": "271",
+                "damage_per_second": "142"
+            },
+            {
+                "level": "10",
+                "hitpoints": "342",
+                "area_damage": "298",
+                "damage_per_second": "156"
+            },
+            {
+                "level": "11",
+                "hitpoints": "376",
+                "area_damage": "327",
+                "damage_per_second": "172"
+            },
+            {
+                "level": "12",
+                "hitpoints": "413",
+                "area_damage": "359",
+                "damage_per_second": "188"
+            },
+            {
+                "level": "13",
+                "hitpoints": "454",
+                "area_damage": "395",
+                "damage_per_second": "207"
+            }
+        ]
+    },
+    {
+        "name": "Freeze",
+        "stats": [
+            {
+                "level": "1",
+                "freeze_duration": "4 sec"
+            },
+            {
+                "level": "2",
+                "freeze_duration": "4.3 sec"
+            },
+            {
+                "level": "3",
+                "freeze_duration": "4.6 sec"
+            },
+            {
+                "level": "4",
+                "freeze_duration": "4.9 sec"
+            },
+            {
+                "level": "5",
+                "freeze_duration": "5.2 sec"
+            },
+            {
+                "level": "6",
+                "freeze_duration": "5.5 sec"
+            },
+            {
+                "level": "7",
+                "freeze_duration": "5.8 sec"
+            },
+            {
+                "level": "8",
+                "freeze_duration": "6.1 sec"
+            }
+        ]
+    },
+    {
+        "name": "The_Log",
+        "stats": [
+            {
+                "level": "1",
+                "area_damage": "240",
+                "crown_tower_damage": "84"
+            },
+            {
+                "level": "2",
+                "area_damage": "264",
+                "crown_tower_damage": "93"
+            },
+            {
+                "level": "3",
+                "area_damage": "290",
+                "crown_tower_damage": "102"
+            },
+            {
+                "level": "4",
+                "area_damage": "319",
+                "crown_tower_damage": "112"
+            },
+            {
+                "level": "5",
+                "area_damage": "350",
+                "crown_tower_damage": "123"
+            }
+        ]
+    },
+    {
+        "name": "Fireball",
+        "stats": [
+            {
+                "level": "1",
+                "area_damage": "325",
+                "crown_tower_damage": "114"
+            },
+            {
+                "level": "2",
+                "area_damage": "357",
+                "crown_tower_damage": "125"
+            },
+            {
+                "level": "3",
+                "area_damage": "393",
+                "crown_tower_damage": "138"
+            },
+            {
+                "level": "4",
+                "area_damage": "432",
+                "crown_tower_damage": "152"
+            },
+            {
+                "level": "5",
+                "area_damage": "474",
+                "crown_tower_damage": "166"
+            },
+            {
+                "level": "6",
+                "area_damage": "520",
+                "crown_tower_damage": "183"
+            },
+            {
+                "level": "7",
+                "area_damage": "572",
+                "crown_tower_damage": "201"
+            },
+            {
+                "level": "8",
+                "area_damage": "627",
+                "crown_tower_damage": "220"
+            },
+            {
+                "level": "9",
+                "area_damage": "689",
+                "crown_tower_damage": "242"
+            },
+            {
+                "level": "10",
+                "area_damage": "757",
+                "crown_tower_damage": "265"
+            },
+            {
+                "level": "11",
+                "area_damage": "832",
+                "crown_tower_damage": "292"
+            }
+        ]
+    },
+    {
+        "name": "Bomb_Tower",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "950",
+                "area_damage_": "100",
+                "damage_per_second": "62"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,045",
+                "area_damage_": "110",
+                "damage_per_second": "68"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,149",
+                "area_damage_": "121",
+                "damage_per_second": "75"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,263",
+                "area_damage_": "133",
+                "damage_per_second": "83"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,387",
+                "area_damage_": "146",
+                "damage_per_second": "91"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,520",
+                "area_damage_": "160",
+                "damage_per_second": "100"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,672",
+                "area_damage_": "176",
+                "damage_per_second": "110"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,833",
+                "area_damage_": "193",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "9",
+                "hitpoints": "2,014",
+                "area_damage_": "212",
+                "damage_per_second": "132"
+            },
+            {
+                "level": "10",
+                "hitpoints": "2,213",
+                "area_damage_": "233",
+                "damage_per_second": "145"
+            },
+            {
+                "level": "11",
+                "hitpoints": "2,432",
+                "area_damage_": "256",
+                "damage_per_second": "160"
+            }
+        ]
+    },
+    {
+        "name": "Lumberjack",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,060",
+                "damage": "200",
+                "damage_per_second": "285",
+                "rage_level": "4"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,166",
+                "damage": "220",
+                "damage_per_second": "314",
+                "rage_level": "5"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,282",
+                "damage": "242",
+                "damage_per_second": "345",
+                "rage_level": "6"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,409",
+                "damage": "266",
+                "damage_per_second": "380",
+                "rage_level": "7"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,547",
+                "damage": "292",
+                "damage_per_second": "417",
+                "rage_level": "8"
+            }
+        ]
+    },
+    {
+        "name": "Musketeer",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "340",
+                "damage": "100",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "2",
+                "hitpoints": "374",
+                "damage": "110",
+                "damage_per_second": "100"
+            },
+            {
+                "level": "3",
+                "hitpoints": "411",
+                "damage": "121",
+                "damage_per_second": "110"
+            },
+            {
+                "level": "4",
+                "hitpoints": "452",
+                "damage": "133",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "5",
+                "hitpoints": "496",
+                "damage": "146",
+                "damage_per_second": "132"
+            },
+            {
+                "level": "6",
+                "hitpoints": "544",
+                "damage": "160",
+                "damage_per_second": "145"
+            },
+            {
+                "level": "7",
+                "hitpoints": "598",
+                "damage": "176",
+                "damage_per_second": "160"
+            },
+            {
+                "level": "8",
+                "hitpoints": "656",
+                "damage": "193",
+                "damage_per_second": "175"
+            },
+            {
+                "level": "9",
+                "hitpoints": "720",
+                "damage": "212",
+                "damage_per_second": "192"
+            },
+            {
+                "level": "10",
+                "hitpoints": "792",
+                "damage": "233",
+                "damage_per_second": "211"
+            },
+            {
+                "level": "11",
+                "hitpoints": "870",
+                "damage": "256",
+                "damage_per_second": "232"
+            }
+        ]
+    },
+    {
+        "name": "Ice_Golem",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "565",
+                "damage": "40",
+                "damage_per_second": "16",
+                "death_damage": "40"
+            },
+            {
+                "level": "2",
+                "hitpoints": "621",
+                "damage": "44",
+                "damage_per_second": "17",
+                "death_damage": "44"
+            },
+            {
+                "level": "3",
+                "hitpoints": "683",
+                "damage": "48",
+                "damage_per_second": "19",
+                "death_damage": "48"
+            },
+            {
+                "level": "4",
+                "hitpoints": "751",
+                "damage": "53",
+                "damage_per_second": "21",
+                "death_damage": "53"
+            },
+            {
+                "level": "5",
+                "hitpoints": "824",
+                "damage": "58",
+                "damage_per_second": "23",
+                "death_damage": "58"
+            },
+            {
+                "level": "6",
+                "hitpoints": "904",
+                "damage": "64",
+                "damage_per_second": "25",
+                "death_damage": "64"
+            },
+            {
+                "level": "7",
+                "hitpoints": "994",
+                "damage": "70",
+                "damage_per_second": "28",
+                "death_damage": "70"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,090",
+                "damage": "77",
+                "damage_per_second": "30",
+                "death_damage": "77"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,197",
+                "damage": "84",
+                "damage_per_second": "33",
+                "death_damage": "84"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,316",
+                "damage": "93",
+                "damage_per_second": "37",
+                "death_damage": "93"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,446",
+                "damage": "102",
+                "damage_per_second": "40",
+                "death_damage": "102"
+            }
+        ]
+    },
+    {
+        "name": "Inferno_Tower",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "800",
+                "damage": "20-400",
+                "damage_per_second": "50-1,000"
+            },
+            {
+                "level": "2",
+                "hitpoints": "880",
+                "damage": "22-440",
+                "damage_per_second": "55-1,100"
+            },
+            {
+                "level": "3",
+                "hitpoints": "968",
+                "damage": "24-484",
+                "damage_per_second": "60-1,210"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,064",
+                "damage": "26-532",
+                "damage_per_second": "65-1,330"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,168",
+                "damage": "29-584",
+                "damage_per_second": "72-1,460"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,280",
+                "damage": "32-640",
+                "damage_per_second": "80-1,600"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,408",
+                "damage": "35-704",
+                "damage_per_second": "87-1,760"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,544",
+                "damage": "38-772",
+                "damage_per_second": "95-1,930"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,696",
+                "damage": "42-848",
+                "damage_per_second": "105-2,120"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,864",
+                "damage": "46-932",
+                "damage_per_second": "115-2,330"
+            },
+            {
+                "level": "11",
+                "hitpoints": "2,048",
+                "damage": "51-1,024",
+                "damage_per_second": "127-2,560"
+            }
+        ]
+    },
+    {
+        "name": "Hunter",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "524",
+                "damage": "52 x10",
+                "damage_per_second": "23 x10"
+            },
+            {
+                "level": "2",
+                "hitpoints": "576",
+                "damage": "57 x10",
+                "damage_per_second": "25 x10"
+            },
+            {
+                "level": "3",
+                "hitpoints": "634",
+                "damage": "62 x10",
+                "damage_per_second": "28 x10"
+            },
+            {
+                "level": "4",
+                "hitpoints": "696",
+                "damage": "69 x10",
+                "damage_per_second": "31 x10"
+            },
+            {
+                "level": "5",
+                "hitpoints": "765",
+                "damage": "75 x10",
+                "damage_per_second": "34 x10"
+            },
+            {
+                "level": "6",
+                "hitpoints": "838",
+                "damage": "83 x10",
+                "damage_per_second": "37 x10"
+            },
+            {
+                "level": "7",
+                "hitpoints": "922",
+                "damage": "91 x10",
+                "damage_per_second": "41 x10"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,011",
+                "damage": "100 x10",
+                "damage_per_second": "45 x10"
+            }
+        ]
+    },
+    {
+        "name": "Hog_Rider",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "800",
+                "damage": "150",
+                "damage_per_second": "93"
+            },
+            {
+                "level": "2",
+                "hitpoints": "880",
+                "damage": "165",
+                "damage_per_second": "103"
+            },
+            {
+                "level": "3",
+                "hitpoints": "968",
+                "damage": "181",
+                "damage_per_second": "113"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,064",
+                "damage": "199",
+                "damage_per_second": "124"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,168",
+                "damage": "219",
+                "damage_per_second": "136"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,280",
+                "damage": "240",
+                "damage_per_second": "150"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,408",
+                "damage": "264",
+                "damage_per_second": "165"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,544",
+                "damage": "289",
+                "damage_per_second": "180"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,696",
+                "damage": "318",
+                "damage_per_second": "198"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,864",
+                "damage": "349",
+                "damage_per_second": "218"
+            },
+            {
+                "level": "11",
+                "hitpoints": "2,048",
+                "damage": "384",
+                "damage_per_second": "240"
+            }
+        ]
+    },
+    {
+        "name": "X-Bow",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,000",
+                "damage": "20",
+                "damage_per_second": "80"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,100",
+                "damage": "22",
+                "damage_per_second": "88"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,210",
+                "damage": "24",
+                "damage_per_second": "96"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,330",
+                "damage": "26",
+                "damage_per_second": "104"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,460",
+                "damage": "29",
+                "damage_per_second": "116"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,600",
+                "damage": "32",
+                "damage_per_second": "128"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,760",
+                "damage": "35",
+                "damage_per_second": "140"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,930",
+                "damage": "38",
+                "damage_per_second": "152"
+            }
+        ]
+    },
+    {
+        "name": "Elixir_Collector",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "505"
+            },
+            {
+                "level": "2",
+                "hitpoints": "555"
+            },
+            {
+                "level": "3",
+                "hitpoints": "611"
+            },
+            {
+                "level": "4",
+                "hitpoints": "671"
+            },
+            {
+                "level": "5",
+                "hitpoints": "737"
+            },
+            {
+                "level": "6",
+                "hitpoints": "808"
+            },
+            {
+                "level": "7",
+                "hitpoints": "888"
+            },
+            {
+                "level": "8",
+                "hitpoints": "974"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,070"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,176"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,292"
+            }
+        ]
+    },
+    {
+        "name": "Furnace",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "570",
+                "fire_spirits_level": "3"
+            },
+            {
+                "level": "2",
+                "hitpoints": "627",
+                "fire_spirits_level": "4"
+            },
+            {
+                "level": "3",
+                "hitpoints": "689",
+                "fire_spirits_level": "5"
+            },
+            {
+                "level": "4",
+                "hitpoints": "758",
+                "fire_spirits_level": "6"
+            },
+            {
+                "level": "5",
+                "hitpoints": "832",
+                "fire_spirits_level": "7"
+            },
+            {
+                "level": "6",
+                "hitpoints": "912",
+                "fire_spirits_level": "8"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,003",
+                "fire_spirits_level": "9"
+            },
+            {
+                "level": "8",
+                "hitpoints": "1,100",
+                "fire_spirits_level": "10"
+            },
+            {
+                "level": "9",
+                "hitpoints": "1,208",
+                "fire_spirits_level": "11"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,328",
+                "fire_spirits_level": "12"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,459",
+                "fire_spirits_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Skeletons",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "32",
+                "damage": "32",
+                "damage_per_second": "32"
+            },
+            {
+                "level": "2",
+                "hitpoints": "35",
+                "damage": "35",
+                "damage_per_second": "35"
+            },
+            {
+                "level": "3",
+                "hitpoints": "38",
+                "damage": "38",
+                "damage_per_second": "38"
+            },
+            {
+                "level": "4",
+                "hitpoints": "42",
+                "damage": "42",
+                "damage_per_second": "42"
+            },
+            {
+                "level": "5",
+                "hitpoints": "46",
+                "damage": "46",
+                "damage_per_second": "46"
+            },
+            {
+                "level": "6",
+                "hitpoints": "51",
+                "damage": "51",
+                "damage_per_second": "51"
+            },
+            {
+                "level": "7",
+                "hitpoints": "56",
+                "damage": "56",
+                "damage_per_second": "56"
+            },
+            {
+                "level": "8",
+                "hitpoints": "61",
+                "damage": "61",
+                "damage_per_second": "61"
+            },
+            {
+                "level": "9",
+                "hitpoints": "67",
+                "damage": "67",
+                "damage_per_second": "67"
+            },
+            {
+                "level": "10",
+                "hitpoints": "74",
+                "damage": "74",
+                "damage_per_second": "74"
+            },
+            {
+                "level": "11",
+                "hitpoints": "81",
+                "damage": "81",
+                "damage_per_second": "81"
+            },
+            {
+                "level": "12",
+                "hitpoints": "89",
+                "damage": "89",
+                "damage_per_second": "89"
+            },
+            {
+                "level": "13",
+                "hitpoints": "98",
+                "damage": "98",
+                "damage_per_second": "98"
+            }
+        ]
+    },
+    {
+        "name": "Wizard",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "340",
+                "area_damage": "133",
+                "damage_per_second": "95"
+            },
+            {
+                "level": "2",
+                "hitpoints": "374",
+                "area_damage": "146",
+                "damage_per_second": "104"
+            },
+            {
+                "level": "3",
+                "hitpoints": "411",
+                "area_damage": "160",
+                "damage_per_second": "114"
+            },
+            {
+                "level": "4",
+                "hitpoints": "452",
+                "area_damage": "176",
+                "damage_per_second": "125"
+            },
+            {
+                "level": "5",
+                "hitpoints": "496",
+                "area_damage": "194",
+                "damage_per_second": "138"
+            },
+            {
+                "level": "6",
+                "hitpoints": "544",
+                "area_damage": "212",
+                "damage_per_second": "151"
+            },
+            {
+                "level": "7",
+                "hitpoints": "598",
+                "area_damage": "234",
+                "damage_per_second": "167"
+            },
+            {
+                "level": "8",
+                "hitpoints": "656",
+                "area_damage": "256",
+                "damage_per_second": "182"
+            },
+            {
+                "level": "9",
+                "hitpoints": "720",
+                "area_damage": "281",
+                "damage_per_second": "200"
+            },
+            {
+                "level": "10",
+                "hitpoints": "792",
+                "area_damage": "309",
+                "damage_per_second": "220"
+            },
+            {
+                "level": "11",
+                "hitpoints": "870",
+                "area_damage": "340",
+                "damage_per_second": "242"
+            }
+        ]
+    },
+    {
+        "name": "Bandit",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "780",
+                "damage": "160",
+                "dash_damage": "320",
+                "damage_per_second": "160"
+            },
+            {
+                "level": "2",
+                "hitpoints": "858",
+                "damage": "176",
+                "dash_damage": "352",
+                "damage_per_second": "176"
+            },
+            {
+                "level": "3",
+                "hitpoints": "943",
+                "damage": "193",
+                "dash_damage": "387",
+                "damage_per_second": "193"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,037",
+                "damage": "212",
+                "dash_damage": "425",
+                "damage_per_second": "212"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,138",
+                "damage": "233",
+                "dash_damage": "467",
+                "damage_per_second": "233"
+            }
+        ]
+    },
+    {
+        "name": "Lightning",
+        "stats": [
+            {
+                "level": "1",
+                "damage": "630",
+                "crown_tower_damage": "221"
+            },
+            {
+                "level": "2",
+                "damage": "693",
+                "crown_tower_damage": "243"
+            },
+            {
+                "level": "3",
+                "damage": "762",
+                "crown_tower_damage": "267"
+            },
+            {
+                "level": "4",
+                "damage": "837",
+                "crown_tower_damage": "293"
+            },
+            {
+                "level": "5",
+                "damage": "919",
+                "crown_tower_damage": "322"
+            },
+            {
+                "level": "6",
+                "damage": "1,008",
+                "crown_tower_damage": "353"
+            },
+            {
+                "level": "7",
+                "damage": "1,108",
+                "crown_tower_damage": "388"
+            },
+            {
+                "level": "8",
+                "damage": "1,215",
+                "crown_tower_damage": "426"
+            }
+        ]
+    },
+    {
+        "name": "Poison",
+        "stats": [
+            {
+                "level": "1",
+                "damage_per_second": "57",
+                "crown_tower_damage": "20"
+            },
+            {
+                "level": "2",
+                "damage_per_second": "62",
+                "crown_tower_damage": "22"
+            },
+            {
+                "level": "3",
+                "damage_per_second": "68",
+                "crown_tower_damage": "24"
+            },
+            {
+                "level": "4",
+                "damage_per_second": "75",
+                "crown_tower_damage": "27"
+            },
+            {
+                "level": "5",
+                "damage_per_second": "83",
+                "crown_tower_damage": "30"
+            },
+            {
+                "level": "6",
+                "damage_per_second": "91",
+                "crown_tower_damage": "32"
+            },
+            {
+                "level": "7",
+                "damage_per_second": "100",
+                "crown_tower_damage": "35"
+            },
+            {
+                "level": "8",
+                "damage_per_second": "110",
+                "crown_tower_damage": "39"
+            }
+        ]
+    },
+    {
+        "name": "Goblin_Barrel",
+        "stats": [
+            {
+                "level": "1",
+                "goblin_level": "6"
+            },
+            {
+                "level": "2",
+                "goblin_level": "7"
+            },
+            {
+                "level": "3",
+                "goblin_level": "8"
+            },
+            {
+                "level": "4",
+                "goblin_level": "9"
+            },
+            {
+                "level": "5",
+                "goblin_level": "10"
+            },
+            {
+                "level": "6",
+                "goblin_level": "11"
+            },
+            {
+                "level": "7",
+                "goblin_level": "12"
+            },
+            {
+                "level": "8",
+                "goblin_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Cannon",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "350",
+                "damage": "60",
+                "damage_per_second": "75"
+            },
+            {
+                "level": "2",
+                "hitpoints": "385",
+                "damage": "66",
+                "damage_per_second": "82"
+            },
+            {
+                "level": "3",
+                "hitpoints": "423",
+                "damage": "72",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "4",
+                "hitpoints": "465",
+                "damage": "79",
+                "damage_per_second": "98"
+            },
+            {
+                "level": "5",
+                "hitpoints": "511",
+                "damage": "85",
+                "damage_per_second": "106"
+            },
+            {
+                "level": "6",
+                "hitpoints": "560",
+                "damage": "96",
+                "damage_per_second": "120"
+            },
+            {
+                "level": "7",
+                "hitpoints": "616",
+                "damage": "105",
+                "damage_per_second": "131"
+            },
+            {
+                "level": "8",
+                "hitpoints": "675",
+                "damage": "115",
+                "damage_per_second": "143"
+            },
+            {
+                "level": "9",
+                "hitpoints": "742",
+                "damage": "127",
+                "damage_per_second": "158"
+            },
+            {
+                "level": "10",
+                "hitpoints": "815",
+                "damage": "139",
+                "damage_per_second": "173"
+            },
+            {
+                "level": "11",
+                "hitpoints": "896",
+                "damage": "153",
+                "damage_per_second": "191"
+            },
+            {
+                "level": "12",
+                "hitpoints": "983",
+                "damage": "168",
+                "damage_per_second": "210"
+            },
+            {
+                "level": "13",
+                "hitpoints": "1,081",
+                "damage": "185",
+                "damage_per_second": "231"
+            }
+        ]
+    },
+    {
+        "name": "Barbarian_Hut",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,100",
+                "barbarian_level": "3"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,210",
+                "barbarian_level": "4"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,331",
+                "barbarian_level": "5"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,463",
+                "barbarian_level": "6"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,606",
+                "barbarian_level": "7"
+            },
+            {
+                "level": "6",
+                "hitpoints": "1,760",
+                "barbarian_level": "8"
+            },
+            {
+                "level": "7",
+                "hitpoints": "1,936",
+                "barbarian_level": "9"
+            },
+            {
+                "level": "8",
+                "hitpoints": "2,123",
+                "barbarian_level": "10"
+            },
+            {
+                "level": "9",
+                "hitpoints": "2,332",
+                "barbarian_level": "11"
+            },
+            {
+                "level": "10",
+                "hitpoints": "2,563",
+                "barbarian_level": "12"
+            },
+            {
+                "level": "11",
+                "hitpoints": "2,816",
+                "barbarian_level": "13"
+            }
+        ]
+    },
+    {
+        "name": "Mirror",
+        "stats": [
+            {
+                "_level": "1",
+                "_mirrored_common_level": "7",
+                "_mirrored_rare_level": "5",
+                "_mirrored_epic_level": "2",
+                "_mirrored_legendary_level": "1"
+            },
+            {
+                "_level": "2",
+                "_mirrored_common_level": "8",
+                "_mirrored_rare_level": "6",
+                "_mirrored_epic_level": "3",
+                "_mirrored_legendary_level": "1"
+            },
+            {
+                "_level": "3",
+                "_mirrored_common_level": "9",
+                "_mirrored_rare_level": "7",
+                "_mirrored_epic_level": "4",
+                "_mirrored_legendary_level": "1"
+            },
+            {
+                "_level": "4",
+                "_mirrored_common_level": "10",
+                "_mirrored_rare_level": "8",
+                "_mirrored_epic_level": "5",
+                "_mirrored_legendary_level": "2"
+            },
+            {
+                "_level": "5",
+                "_mirrored_common_level": "11",
+                "_mirrored_rare_level": "9",
+                "_mirrored_epic_level": "6",
+                "_mirrored_legendary_level": "3"
+            },
+            {
+                "_level": "6",
+                "_mirrored_common_level": "12",
+                "_mirrored_rare_level": "10",
+                "_mirrored_epic_level": "7",
+                "_mirrored_legendary_level": "4"
+            },
+            {
+                "_level": "7",
+                "_mirrored_common_level": "13",
+                "_mirrored_rare_level": "11",
+                "_mirrored_epic_level": "8",
+                "_mirrored_legendary_level": "5"
+            },
+            {
+                "_level": "8",
+                "_mirrored_common_level": "14",
+                "_mirrored_rare_level": "12",
+                "_mirrored_epic_level": "9",
+                "_mirrored_legendary_level": "6"
+            }
+        ]
+    },
+    {
+        "name": "Tesla",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "450",
+                "damage": "90",
+                "damage_per_second": "90"
+            },
+            {
+                "level": "2",
+                "hitpoints": "495",
+                "damage": "99",
+                "damage_per_second": "99"
+            },
+            {
+                "level": "3",
+                "hitpoints": "544",
+                "damage": "108",
+                "damage_per_second": "108"
+            },
+            {
+                "level": "4",
+                "hitpoints": "598",
+                "damage": "119",
+                "damage_per_second": "119"
+            },
+            {
+                "level": "5",
+                "hitpoints": "657",
+                "damage": "131",
+                "damage_per_second": "131"
+            },
+            {
+                "level": "6",
+                "hitpoints": "720",
+                "damage": "144",
+                "damage_per_second": "144"
+            },
+            {
+                "level": "7",
+                "hitpoints": "792",
+                "damage": "158",
+                "damage_per_second": "158"
+            },
+            {
+                "level": "8",
+                "hitpoints": "868",
+                "damage": "173",
+                "damage_per_second": "173"
+            },
+            {
+                "level": "9",
+                "hitpoints": "954",
+                "damage": "190",
+                "damage_per_second": "190"
+            },
+            {
+                "level": "10",
+                "hitpoints": "1,048",
+                "damage": "209",
+                "damage_per_second": "209"
+            },
+            {
+                "level": "11",
+                "hitpoints": "1,152",
+                "damage": "230",
+                "damage_per_second": "230"
+            },
+            {
+                "level": "12",
+                "hitpoints": "1,264",
+                "damage": "252",
+                "damage_per_second": "252"
+            },
+            {
+                "level": "13",
+                "hitpoints": "1,390",
+                "damage": "278",
+                "damage_per_second": "278"
+            }
+        ]
+    },
+    {
+        "name": "Sparky",
+        "stats": [
+            {
+                "level": "1",
+                "hitpoints": "1,200",
+                "area_damage": "1,100",
+                "damage_per_second": "275"
+            },
+            {
+                "level": "2",
+                "hitpoints": "1,320",
+                "area_damage": "1,210",
+                "damage_per_second": "302"
+            },
+            {
+                "level": "3",
+                "hitpoints": "1,452",
+                "area_damage": "1,331",
+                "damage_per_second": "332"
+            },
+            {
+                "level": "4",
+                "hitpoints": "1,596",
+                "area_damage": "1,463",
+                "damage_per_second": "365"
+            },
+            {
+                "level": "5",
+                "hitpoints": "1,752",
+                "area_damage": "1,606",
+                "damage_per_second": "401"
+            }
+        ]
+    },
+    {
+        "name": "Zap",
+        "stats": [
+            {
+                "level": "1",
+                "area_damage": "75",
+                "crown_tower_damage": "27"
+            },
+            {
+                "level": "2",
+                "area_damage": "82",
+                "crown_tower_damage": "29"
+            },
+            {
+                "level": "3",
+                "area_damage": "90",
+                "crown_tower_damage": "32"
+            },
+            {
+                "level": "4",
+                "area_damage": "99",
+                "crown_tower_damage": "35"
+            },
+            {
+                "level": "5",
+                "area_damage": "109",
+                "crown_tower_damage": "39"
+            },
+            {
+                "level": "6",
+                "area_damage": "120",
+                "crown_tower_damage": "43"
+            },
+            {
+                "level": "7",
+                "area_damage": "132",
+                "crown_tower_damage": "47"
+            },
+            {
+                "level": "8",
+                "area_damage": "144",
+                "crown_tower_damage": "51"
+            },
+            {
+                "level": "9",
+                "area_damage": "159",
+                "crown_tower_damage": "56"
+            },
+            {
+                "level": "10",
+                "area_damage": "174",
+                "crown_tower_damage": "61"
+            },
+            {
+                "level": "11",
+                "area_damage": "192",
+                "crown_tower_damage": "68"
+            },
+            {
+                "level": "12",
+                "area_damage": "210",
+                "crown_tower_damage": "74"
+            },
+            {
+                "level": "13",
+                "area_damage": "231",
+                "crown_tower_damage": "81"
+            }
+        ]
+    },
+    {
+        "name": "Graveyard",
+        "stats": [
+            {
+                "level": "1",
+                "skeleton_level": "9"
+            },
+            {
+                "level": "2",
+                "skeleton_level": "10"
+            },
+            {
+                "level": "3",
+                "skeleton_level": "11"
+            },
+            {
+                "level": "4",
+                "skeleton_level": "12"
+            },
+            {
+                "level": "5",
+                "skeleton_level": "13"
+            }
+        ]
+    }
+]
