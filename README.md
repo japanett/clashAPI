@@ -1,1 +1,3 @@
-Nodejs script that will crawl into 'http://clashroyale.wikia.com/wiki/Card_Example' to get information from all the cards in Clash Royale and generate a JSON
+** Discontinued for now...
+This script is a Spider that will crawl into 'http://clashroyale.wikia.com/wiki/Card_Example' to get the card information and creates an array of card objects.
+Later this will be persisted in a database and available as an API
